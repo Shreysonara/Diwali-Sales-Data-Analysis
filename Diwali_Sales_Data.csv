@@ -1,0 +1,1001 @@
+Customer_ID,Gender,Age_Group,Location,Product_Category,Pricing_Strategy,Advertisement_Channel,Sales_Amount,Units_Sold,Purchase_Date
+CUST0001,Male,18-25,Delhi,Food,Premium,Billboards,4519,1,2023-12-01
+CUST0002,Female,18-25,Delhi,Electronics,Premium,Television,1431,2,2023-12-01
+CUST0003,Male,18-25,Delhi,Clothing,Discount,Television,3906,5,2023-12-01
+CUST0004,Male,56+,Karnataka,Electronics,Discount,Billboards,647,3,2023-12-01
+CUST0005,Male,46-55,Uttar Pradesh,Electronics,Discount,Online Ads,1532,2,2023-12-01
+CUST0006,Female,56+,Maharashtra,Books,Discount,Television,1811,1,2023-12-01
+CUST0007,Male,46-55,Tamil Nadu,Electronics,Standard,Television,887,3,2023-12-01
+CUST0008,Male,56+,Maharashtra,Electronics,Standard,Billboards,3621,1,2023-12-01
+CUST0009,Male,56+,Maharashtra,Home Appliances,Discount,Online Ads,2373,1,2023-12-01
+CUST0010,Female,36-45,Uttar Pradesh,Clothing,Standard,Television,4088,1,2023-12-01
+CUST0011,Male,56+,Uttar Pradesh,Home Appliances,Premium,Television,1415,8,2023-12-01
+CUST0012,Male,26-35,Uttar Pradesh,Home Appliances,Standard,Online Ads,2378,3,2023-12-01
+CUST0013,Male,36-45,Delhi,Food,Standard,Television,4248,1,2023-12-01
+CUST0014,Male,56+,Karnataka,Home Appliances,Discount,Online Ads,777,7,2023-12-01
+CUST0015,Female,18-25,Delhi,Books,Standard,Online Ads,2477,3,2023-12-01
+CUST0016,Male,26-35,Karnataka,Books,Standard,Billboards,2359,8,2023-12-01
+CUST0017,Female,26-35,Karnataka,Food,Standard,Social Media,3536,4,2023-12-01
+CUST0018,Female,26-35,Maharashtra,Clothing,Standard,Online Ads,3871,4,2023-12-02
+CUST0019,Female,36-45,Maharashtra,Clothing,Premium,Billboards,2682,5,2023-12-02
+CUST0020,Male,56+,Karnataka,Home Appliances,Discount,Social Media,1670,6,2023-12-02
+CUST0021,Female,56+,Karnataka,Home Appliances,Discount,Television,989,7,2023-12-02
+CUST0022,Male,18-25,Delhi,Home Appliances,Premium,Social Media,3025,4,2023-12-02
+CUST0023,Female,18-25,Delhi,Clothing,Standard,Online Ads,1682,8,2023-12-02
+CUST0024,Female,26-35,Maharashtra,Electronics,Premium,Online Ads,4979,6,2023-12-02
+CUST0025,Female,18-25,Uttar Pradesh,Books,Standard,Online Ads,4758,1,2023-12-02
+CUST0026,Female,36-45,Karnataka,Electronics,Premium,Online Ads,2988,1,2023-12-02
+CUST0027,Female,56+,Delhi,Electronics,Discount,Online Ads,2376,9,2023-12-02
+CUST0028,Female,26-35,Maharashtra,Clothing,Discount,Billboards,2962,6,2023-12-02
+CUST0029,Female,18-25,Delhi,Electronics,Discount,Online Ads,2130,8,2023-12-02
+CUST0030,Female,36-45,Karnataka,Food,Standard,Billboards,787,7,2023-12-02
+CUST0031,Male,36-45,Karnataka,Home Appliances,Standard,Television,4782,6,2023-12-02
+CUST0032,Male,18-25,Tamil Nadu,Food,Premium,Online Ads,2407,4,2023-12-02
+CUST0033,Female,56+,Uttar Pradesh,Books,Premium,Online Ads,1661,7,2023-12-02
+CUST0034,Female,18-25,Tamil Nadu,Home Appliances,Discount,Social Media,629,9,2023-12-03
+CUST0035,Female,26-35,Maharashtra,Electronics,Standard,Television,2863,7,2023-12-03
+CUST0036,Male,18-25,Delhi,Books,Premium,Online Ads,643,1,2023-12-03
+CUST0037,Female,36-45,Maharashtra,Home Appliances,Standard,Online Ads,515,9,2023-12-03
+CUST0038,Male,18-25,Karnataka,Electronics,Standard,Television,744,4,2023-12-03
+CUST0039,Male,56+,Tamil Nadu,Food,Discount,Billboards,1426,3,2023-12-03
+CUST0040,Male,46-55,Tamil Nadu,Home Appliances,Discount,Online Ads,3678,4,2023-12-03
+CUST0041,Male,18-25,Tamil Nadu,Electronics,Standard,Social Media,2676,4,2023-12-03
+CUST0042,Male,56+,Maharashtra,Food,Standard,Online Ads,1386,2,2023-12-03
+CUST0043,Female,56+,Karnataka,Books,Standard,Social Media,840,1,2023-12-03
+CUST0044,Female,36-45,Delhi,Books,Standard,Social Media,2551,1,2023-12-03
+CUST0045,Female,56+,Delhi,Books,Discount,Online Ads,3898,8,2023-12-03
+CUST0046,Female,56+,Maharashtra,Books,Premium,Online Ads,4450,2,2023-12-03
+CUST0047,Female,56+,Tamil Nadu,Clothing,Discount,Social Media,805,5,2023-12-03
+CUST0048,Male,56+,Uttar Pradesh,Home Appliances,Premium,Television,1407,4,2023-12-03
+CUST0049,Female,26-35,Maharashtra,Home Appliances,Standard,Television,3154,8,2023-12-03
+CUST0050,Female,26-35,Maharashtra,Clothing,Premium,Online Ads,4292,2,2023-12-03
+CUST0051,Male,36-45,Karnataka,Electronics,Discount,Billboards,4542,9,2023-12-04
+CUST0052,Female,18-25,Delhi,Electronics,Discount,Television,1871,7,2023-12-04
+CUST0053,Male,56+,Maharashtra,Books,Standard,Online Ads,820,7,2023-12-04
+CUST0054,Female,18-25,Maharashtra,Food,Discount,Television,4559,1,2023-12-04
+CUST0055,Male,18-25,Tamil Nadu,Electronics,Standard,Billboards,1631,2,2023-12-04
+CUST0056,Female,36-45,Tamil Nadu,Food,Discount,Online Ads,3078,4,2023-12-04
+CUST0057,Female,56+,Uttar Pradesh,Home Appliances,Discount,Billboards,4542,4,2023-12-04
+CUST0058,Male,56+,Karnataka,Food,Standard,Online Ads,3867,3,2023-12-04
+CUST0059,Male,46-55,Uttar Pradesh,Home Appliances,Premium,Billboards,1317,7,2023-12-04
+CUST0060,Male,18-25,Tamil Nadu,Clothing,Discount,Television,511,8,2023-12-04
+CUST0061,Male,18-25,Delhi,Clothing,Premium,Television,694,2,2023-12-04
+CUST0062,Male,26-35,Tamil Nadu,Books,Discount,Billboards,3037,4,2023-12-04
+CUST0063,Male,46-55,Karnataka,Electronics,Discount,Billboards,3342,3,2023-12-04
+CUST0064,Male,26-35,Tamil Nadu,Books,Discount,Billboards,2729,2,2023-12-04
+CUST0065,Male,26-35,Karnataka,Home Appliances,Discount,Online Ads,3509,6,2023-12-04
+CUST0066,Female,26-35,Karnataka,Books,Premium,Television,2577,4,2023-12-04
+CUST0067,Female,36-45,Karnataka,Food,Premium,Online Ads,4367,6,2023-12-05
+CUST0068,Male,36-45,Karnataka,Home Appliances,Discount,Television,943,2,2023-12-05
+CUST0069,Female,26-35,Karnataka,Clothing,Discount,Social Media,797,4,2023-12-05
+CUST0070,Female,46-55,Delhi,Electronics,Premium,Online Ads,1344,6,2023-12-05
+CUST0071,Female,18-25,Uttar Pradesh,Home Appliances,Standard,Television,1515,5,2023-12-05
+CUST0072,Female,46-55,Maharashtra,Home Appliances,Standard,Television,1884,3,2023-12-05
+CUST0073,Male,56+,Uttar Pradesh,Food,Premium,Online Ads,1897,8,2023-12-05
+CUST0074,Female,36-45,Karnataka,Electronics,Discount,Online Ads,1053,7,2023-12-05
+CUST0075,Male,18-25,Delhi,Clothing,Discount,Television,2850,3,2023-12-05
+CUST0076,Female,18-25,Tamil Nadu,Home Appliances,Standard,Online Ads,1769,6,2023-12-05
+CUST0077,Female,56+,Delhi,Home Appliances,Standard,Billboards,1760,4,2023-12-05
+CUST0078,Female,56+,Karnataka,Food,Premium,Online Ads,684,5,2023-12-05
+CUST0079,Male,26-35,Delhi,Books,Standard,Online Ads,2910,5,2023-12-05
+CUST0080,Female,36-45,Delhi,Clothing,Premium,Online Ads,4931,7,2023-12-05
+CUST0081,Male,36-45,Karnataka,Electronics,Standard,Television,2709,5,2023-12-05
+CUST0082,Female,46-55,Delhi,Home Appliances,Standard,Billboards,4172,3,2023-12-05
+CUST0083,Male,26-35,Maharashtra,Home Appliances,Standard,Social Media,2381,5,2023-12-06
+CUST0084,Female,26-35,Maharashtra,Clothing,Discount,Social Media,4796,7,2023-12-06
+CUST0085,Male,26-35,Delhi,Books,Discount,Billboards,1021,5,2023-12-06
+CUST0086,Male,26-35,Tamil Nadu,Home Appliances,Discount,Billboards,2387,5,2023-12-06
+CUST0087,Female,36-45,Karnataka,Clothing,Standard,Billboards,3052,9,2023-12-06
+CUST0088,Male,36-45,Maharashtra,Food,Premium,Television,4309,3,2023-12-06
+CUST0089,Female,26-35,Tamil Nadu,Books,Premium,Social Media,4655,6,2023-12-06
+CUST0090,Female,46-55,Delhi,Electronics,Premium,Billboards,4916,1,2023-12-06
+CUST0091,Female,18-25,Tamil Nadu,Home Appliances,Premium,Television,3979,5,2023-12-06
+CUST0092,Female,18-25,Uttar Pradesh,Clothing,Discount,Social Media,1909,8,2023-12-06
+CUST0093,Female,46-55,Maharashtra,Food,Discount,Online Ads,2194,5,2023-12-06
+CUST0094,Female,26-35,Delhi,Electronics,Standard,Television,1026,9,2023-12-06
+CUST0095,Female,36-45,Karnataka,Clothing,Standard,Social Media,3160,6,2023-12-06
+CUST0096,Female,18-25,Delhi,Clothing,Premium,Television,2672,8,2023-12-06
+CUST0097,Female,56+,Karnataka,Electronics,Discount,Social Media,779,8,2023-12-06
+CUST0098,Female,56+,Delhi,Food,Premium,Social Media,3464,3,2023-12-06
+CUST0099,Female,46-55,Tamil Nadu,Food,Standard,Online Ads,4477,7,2023-12-06
+CUST0100,Male,26-35,Tamil Nadu,Books,Standard,Television,3169,7,2023-12-07
+CUST0101,Male,18-25,Tamil Nadu,Home Appliances,Premium,Billboards,3393,6,2023-12-07
+CUST0102,Female,26-35,Uttar Pradesh,Electronics,Standard,Online Ads,2251,7,2023-12-07
+CUST0103,Female,18-25,Karnataka,Electronics,Premium,Online Ads,4481,2,2023-12-07
+CUST0104,Female,46-55,Tamil Nadu,Electronics,Discount,Social Media,2861,9,2023-12-07
+CUST0105,Female,46-55,Uttar Pradesh,Food,Premium,Billboards,4927,1,2023-12-07
+CUST0106,Female,56+,Karnataka,Home Appliances,Discount,Television,4631,1,2023-12-07
+CUST0107,Female,26-35,Delhi,Books,Discount,Billboards,2208,3,2023-12-07
+CUST0108,Female,56+,Uttar Pradesh,Clothing,Standard,Billboards,3186,3,2023-12-07
+CUST0109,Female,26-35,Maharashtra,Clothing,Standard,Billboards,3395,1,2023-12-07
+CUST0110,Male,56+,Uttar Pradesh,Electronics,Standard,Billboards,3276,7,2023-12-07
+CUST0111,Female,36-45,Uttar Pradesh,Home Appliances,Premium,Billboards,1619,4,2023-12-07
+CUST0112,Male,36-45,Karnataka,Food,Premium,Social Media,3488,2,2023-12-07
+CUST0113,Female,36-45,Delhi,Home Appliances,Standard,Social Media,4759,5,2023-12-07
+CUST0114,Female,36-45,Maharashtra,Home Appliances,Premium,Online Ads,4743,6,2023-12-07
+CUST0115,Male,18-25,Tamil Nadu,Food,Standard,Social Media,694,9,2023-12-07
+CUST0116,Female,36-45,Tamil Nadu,Electronics,Premium,Online Ads,1162,4,2023-12-08
+CUST0117,Male,46-55,Uttar Pradesh,Home Appliances,Discount,Online Ads,979,2,2023-12-08
+CUST0118,Female,46-55,Karnataka,Clothing,Discount,Television,4718,5,2023-12-08
+CUST0119,Female,18-25,Karnataka,Food,Standard,Billboards,1923,3,2023-12-08
+CUST0120,Male,36-45,Tamil Nadu,Books,Premium,Social Media,3208,2,2023-12-08
+CUST0121,Female,36-45,Maharashtra,Electronics,Premium,Television,3675,1,2023-12-08
+CUST0122,Male,36-45,Delhi,Food,Discount,Social Media,4314,2,2023-12-08
+CUST0123,Female,56+,Maharashtra,Books,Discount,Online Ads,2514,6,2023-12-08
+CUST0124,Male,26-35,Delhi,Books,Standard,Social Media,4289,8,2023-12-08
+CUST0125,Male,56+,Tamil Nadu,Home Appliances,Discount,Billboards,2943,3,2023-12-08
+CUST0126,Female,26-35,Delhi,Home Appliances,Standard,Online Ads,1411,9,2023-12-08
+CUST0127,Female,36-45,Karnataka,Home Appliances,Discount,Online Ads,3713,9,2023-12-08
+CUST0128,Male,36-45,Uttar Pradesh,Food,Discount,Television,2864,2,2023-12-08
+CUST0129,Female,56+,Uttar Pradesh,Food,Premium,Billboards,4129,8,2023-12-08
+CUST0130,Female,56+,Tamil Nadu,Electronics,Discount,Online Ads,3972,5,2023-12-08
+CUST0131,Female,26-35,Karnataka,Home Appliances,Discount,Billboards,1180,4,2023-12-08
+CUST0132,Male,46-55,Maharashtra,Books,Standard,Social Media,1109,5,2023-12-08
+CUST0133,Male,26-35,Karnataka,Clothing,Discount,Billboards,2656,4,2023-12-09
+CUST0134,Male,56+,Uttar Pradesh,Electronics,Standard,Online Ads,4366,8,2023-12-09
+CUST0135,Male,56+,Uttar Pradesh,Food,Discount,Television,871,4,2023-12-09
+CUST0136,Male,18-25,Karnataka,Electronics,Discount,Online Ads,1115,6,2023-12-09
+CUST0137,Male,56+,Karnataka,Electronics,Standard,Billboards,2753,2,2023-12-09
+CUST0138,Male,18-25,Uttar Pradesh,Electronics,Premium,Billboards,4638,5,2023-12-09
+CUST0139,Male,46-55,Maharashtra,Electronics,Standard,Online Ads,1364,6,2023-12-09
+CUST0140,Male,26-35,Tamil Nadu,Clothing,Standard,Billboards,1768,5,2023-12-09
+CUST0141,Female,26-35,Tamil Nadu,Home Appliances,Standard,Social Media,1284,2,2023-12-09
+CUST0142,Male,18-25,Karnataka,Books,Premium,Online Ads,4678,7,2023-12-09
+CUST0143,Female,26-35,Tamil Nadu,Electronics,Discount,Television,2737,4,2023-12-09
+CUST0144,Female,56+,Uttar Pradesh,Electronics,Standard,Online Ads,4554,8,2023-12-09
+CUST0145,Female,36-45,Uttar Pradesh,Electronics,Standard,Social Media,1435,7,2023-12-09
+CUST0146,Male,18-25,Karnataka,Home Appliances,Premium,Social Media,4480,7,2023-12-09
+CUST0147,Male,26-35,Karnataka,Food,Standard,Social Media,2838,9,2023-12-09
+CUST0148,Male,18-25,Karnataka,Food,Discount,Social Media,825,1,2023-12-09
+CUST0149,Male,18-25,Maharashtra,Clothing,Premium,Social Media,2034,6,2023-12-10
+CUST0150,Female,36-45,Tamil Nadu,Food,Discount,Television,3980,6,2023-12-10
+CUST0151,Male,56+,Karnataka,Electronics,Discount,Billboards,4361,6,2023-12-10
+CUST0152,Male,18-25,Delhi,Electronics,Premium,Social Media,2485,6,2023-12-10
+CUST0153,Male,26-35,Delhi,Electronics,Standard,Social Media,3278,7,2023-12-10
+CUST0154,Male,46-55,Uttar Pradesh,Clothing,Discount,Online Ads,1770,6,2023-12-10
+CUST0155,Male,18-25,Tamil Nadu,Electronics,Discount,Television,1140,1,2023-12-10
+CUST0156,Female,18-25,Karnataka,Food,Discount,Television,4578,3,2023-12-10
+CUST0157,Male,36-45,Delhi,Home Appliances,Discount,Billboards,1867,2,2023-12-10
+CUST0158,Female,56+,Tamil Nadu,Home Appliances,Premium,Television,4542,6,2023-12-10
+CUST0159,Male,46-55,Uttar Pradesh,Books,Premium,Online Ads,3075,8,2023-12-10
+CUST0160,Female,26-35,Maharashtra,Food,Discount,Online Ads,4103,3,2023-12-10
+CUST0161,Male,46-55,Tamil Nadu,Electronics,Standard,Billboards,2081,8,2023-12-10
+CUST0162,Male,26-35,Tamil Nadu,Home Appliances,Discount,Online Ads,2486,8,2023-12-10
+CUST0163,Female,56+,Maharashtra,Food,Standard,Social Media,2740,5,2023-12-10
+CUST0164,Female,26-35,Tamil Nadu,Home Appliances,Discount,Social Media,4466,8,2023-12-10
+CUST0165,Female,36-45,Uttar Pradesh,Electronics,Standard,Online Ads,2605,6,2023-12-11
+CUST0166,Male,36-45,Uttar Pradesh,Home Appliances,Discount,Billboards,628,5,2023-12-11
+CUST0167,Female,36-45,Maharashtra,Books,Standard,Television,4496,9,2023-12-11
+CUST0168,Male,36-45,Karnataka,Books,Discount,Billboards,1351,7,2023-12-11
+CUST0169,Male,46-55,Delhi,Home Appliances,Discount,Television,4603,8,2023-12-11
+CUST0170,Female,56+,Karnataka,Food,Standard,Online Ads,2576,1,2023-12-11
+CUST0171,Female,26-35,Tamil Nadu,Food,Premium,Online Ads,3494,2,2023-12-11
+CUST0172,Male,26-35,Delhi,Food,Standard,Social Media,4244,8,2023-12-11
+CUST0173,Male,36-45,Maharashtra,Home Appliances,Premium,Television,3256,9,2023-12-11
+CUST0174,Female,36-45,Maharashtra,Food,Discount,Billboards,2144,4,2023-12-11
+CUST0175,Female,18-25,Delhi,Electronics,Standard,Online Ads,4871,9,2023-12-11
+CUST0176,Female,56+,Uttar Pradesh,Books,Standard,Billboards,3644,4,2023-12-11
+CUST0177,Male,46-55,Delhi,Electronics,Standard,Social Media,742,9,2023-12-11
+CUST0178,Male,26-35,Tamil Nadu,Food,Premium,Television,4585,7,2023-12-11
+CUST0179,Male,18-25,Uttar Pradesh,Electronics,Premium,Television,670,2,2023-12-11
+CUST0180,Male,18-25,Maharashtra,Food,Discount,Online Ads,1152,9,2023-12-11
+CUST0181,Male,26-35,Delhi,Home Appliances,Premium,Television,4012,4,2023-12-11
+CUST0182,Male,46-55,Karnataka,Electronics,Premium,Online Ads,1999,8,2023-12-12
+CUST0183,Female,18-25,Karnataka,Home Appliances,Discount,Social Media,2599,7,2023-12-12
+CUST0184,Male,18-25,Tamil Nadu,Home Appliances,Standard,Television,2658,7,2023-12-12
+CUST0185,Male,56+,Karnataka,Clothing,Standard,Online Ads,2472,8,2023-12-12
+CUST0186,Male,46-55,Delhi,Food,Discount,Billboards,4425,1,2023-12-12
+CUST0187,Female,18-25,Delhi,Books,Standard,Online Ads,2758,5,2023-12-12
+CUST0188,Male,46-55,Karnataka,Food,Premium,Television,4539,2,2023-12-12
+CUST0189,Male,26-35,Delhi,Books,Discount,Social Media,2535,2,2023-12-12
+CUST0190,Female,36-45,Tamil Nadu,Food,Discount,Television,3771,1,2023-12-12
+CUST0191,Male,18-25,Uttar Pradesh,Home Appliances,Discount,Television,1357,5,2023-12-12
+CUST0192,Male,56+,Tamil Nadu,Electronics,Standard,Online Ads,4323,2,2023-12-12
+CUST0193,Male,26-35,Tamil Nadu,Electronics,Discount,Billboards,1549,4,2023-12-12
+CUST0194,Male,46-55,Delhi,Clothing,Discount,Television,4490,3,2023-12-12
+CUST0195,Male,26-35,Uttar Pradesh,Books,Discount,Billboards,798,3,2023-12-12
+CUST0196,Female,18-25,Delhi,Books,Standard,Online Ads,1423,2,2023-12-12
+CUST0197,Female,46-55,Maharashtra,Books,Premium,Billboards,4732,6,2023-12-12
+CUST0198,Female,36-45,Delhi,Home Appliances,Discount,Online Ads,4806,2,2023-12-13
+CUST0199,Male,26-35,Delhi,Books,Premium,Social Media,3299,8,2023-12-13
+CUST0200,Male,18-25,Delhi,Electronics,Standard,Billboards,4562,8,2023-12-13
+CUST0201,Male,56+,Uttar Pradesh,Home Appliances,Standard,Billboards,4545,5,2023-12-13
+CUST0202,Female,46-55,Delhi,Food,Standard,Social Media,2302,7,2023-12-13
+CUST0203,Male,26-35,Uttar Pradesh,Books,Standard,Billboards,3213,4,2023-12-13
+CUST0204,Male,26-35,Karnataka,Books,Premium,Social Media,3353,1,2023-12-13
+CUST0205,Female,36-45,Maharashtra,Food,Discount,Television,3157,2,2023-12-13
+CUST0206,Male,36-45,Uttar Pradesh,Books,Standard,Online Ads,3846,4,2023-12-13
+CUST0207,Female,56+,Karnataka,Food,Standard,Social Media,1971,1,2023-12-13
+CUST0208,Female,56+,Uttar Pradesh,Home Appliances,Premium,Billboards,3449,8,2023-12-13
+CUST0209,Female,18-25,Uttar Pradesh,Electronics,Premium,Social Media,1441,9,2023-12-13
+CUST0210,Male,18-25,Maharashtra,Food,Standard,Billboards,2407,4,2023-12-13
+CUST0211,Male,56+,Tamil Nadu,Clothing,Discount,Television,1743,3,2023-12-13
+CUST0212,Male,56+,Tamil Nadu,Food,Discount,Social Media,4923,2,2023-12-13
+CUST0213,Male,46-55,Uttar Pradesh,Books,Standard,Television,1966,5,2023-12-13
+CUST0214,Male,36-45,Delhi,Home Appliances,Premium,Online Ads,4457,3,2023-12-14
+CUST0215,Male,18-25,Karnataka,Home Appliances,Standard,Billboards,2466,7,2023-12-14
+CUST0216,Male,36-45,Delhi,Food,Standard,Billboards,875,6,2023-12-14
+CUST0217,Female,36-45,Delhi,Electronics,Premium,Television,762,1,2023-12-14
+CUST0218,Male,56+,Uttar Pradesh,Clothing,Standard,Online Ads,4862,8,2023-12-14
+CUST0219,Female,46-55,Uttar Pradesh,Home Appliances,Standard,Social Media,3888,2,2023-12-14
+CUST0220,Male,26-35,Uttar Pradesh,Books,Standard,Social Media,3895,5,2023-12-14
+CUST0221,Male,46-55,Uttar Pradesh,Books,Premium,Billboards,2444,9,2023-12-14
+CUST0222,Male,46-55,Tamil Nadu,Electronics,Discount,Television,2393,8,2023-12-14
+CUST0223,Female,36-45,Uttar Pradesh,Home Appliances,Discount,Television,4134,2,2023-12-14
+CUST0224,Female,46-55,Tamil Nadu,Food,Premium,Social Media,2152,9,2023-12-14
+CUST0225,Female,18-25,Tamil Nadu,Books,Discount,Online Ads,4641,5,2023-12-14
+CUST0226,Female,36-45,Uttar Pradesh,Electronics,Standard,Online Ads,4392,6,2023-12-14
+CUST0227,Male,18-25,Maharashtra,Home Appliances,Discount,Social Media,1099,3,2023-12-14
+CUST0228,Female,26-35,Karnataka,Home Appliances,Standard,Social Media,2412,3,2023-12-14
+CUST0229,Male,36-45,Delhi,Home Appliances,Discount,Television,1792,8,2023-12-14
+CUST0230,Male,26-35,Tamil Nadu,Home Appliances,Premium,Online Ads,1100,2,2023-12-14
+CUST0231,Female,36-45,Karnataka,Home Appliances,Discount,Social Media,880,2,2023-12-15
+CUST0232,Female,56+,Maharashtra,Books,Discount,Social Media,4713,5,2023-12-15
+CUST0233,Female,46-55,Delhi,Electronics,Discount,Billboards,4137,6,2023-12-15
+CUST0234,Female,56+,Delhi,Home Appliances,Premium,Social Media,2663,2,2023-12-15
+CUST0235,Female,26-35,Tamil Nadu,Clothing,Discount,Social Media,4855,5,2023-12-15
+CUST0236,Female,46-55,Uttar Pradesh,Clothing,Premium,Online Ads,1598,7,2023-12-15
+CUST0237,Female,36-45,Maharashtra,Electronics,Standard,Television,865,8,2023-12-15
+CUST0238,Female,46-55,Tamil Nadu,Food,Discount,Online Ads,3070,7,2023-12-15
+CUST0239,Male,18-25,Maharashtra,Food,Premium,Television,3919,8,2023-12-15
+CUST0240,Female,46-55,Uttar Pradesh,Food,Premium,Billboards,2976,9,2023-12-15
+CUST0241,Female,18-25,Uttar Pradesh,Clothing,Discount,Social Media,1290,5,2023-12-15
+CUST0242,Male,46-55,Tamil Nadu,Food,Standard,Billboards,4069,5,2023-12-15
+CUST0243,Female,18-25,Uttar Pradesh,Books,Premium,Television,1246,4,2023-12-15
+CUST0244,Male,26-35,Karnataka,Home Appliances,Discount,Online Ads,812,9,2023-12-15
+CUST0245,Male,56+,Delhi,Clothing,Standard,Online Ads,1420,5,2023-12-15
+CUST0246,Female,36-45,Tamil Nadu,Electronics,Premium,Billboards,1577,2,2023-12-15
+CUST0247,Male,46-55,Maharashtra,Electronics,Premium,Television,3329,8,2023-12-16
+CUST0248,Male,56+,Karnataka,Home Appliances,Standard,Billboards,2881,7,2023-12-16
+CUST0249,Male,36-45,Tamil Nadu,Clothing,Standard,Billboards,4118,8,2023-12-16
+CUST0250,Male,36-45,Uttar Pradesh,Food,Discount,Social Media,1297,3,2023-12-16
+CUST0251,Female,18-25,Uttar Pradesh,Food,Discount,Billboards,4943,4,2023-12-16
+CUST0252,Male,26-35,Uttar Pradesh,Books,Premium,Social Media,772,5,2023-12-16
+CUST0253,Female,26-35,Uttar Pradesh,Books,Standard,Social Media,3510,6,2023-12-16
+CUST0254,Male,56+,Maharashtra,Food,Standard,Online Ads,2273,1,2023-12-16
+CUST0255,Male,26-35,Karnataka,Electronics,Standard,Social Media,3047,4,2023-12-16
+CUST0256,Male,46-55,Delhi,Electronics,Premium,Social Media,3664,5,2023-12-16
+CUST0257,Male,26-35,Maharashtra,Books,Standard,Online Ads,1446,7,2023-12-16
+CUST0258,Female,56+,Maharashtra,Home Appliances,Standard,Billboards,3165,5,2023-12-16
+CUST0259,Female,26-35,Delhi,Food,Premium,Television,1006,1,2023-12-16
+CUST0260,Male,46-55,Delhi,Books,Discount,Television,743,7,2023-12-16
+CUST0261,Male,18-25,Uttar Pradesh,Books,Discount,Television,1005,8,2023-12-16
+CUST0262,Female,56+,Maharashtra,Food,Premium,Billboards,3658,7,2023-12-16
+CUST0263,Male,18-25,Tamil Nadu,Food,Standard,Social Media,4090,4,2023-12-16
+CUST0264,Male,18-25,Delhi,Electronics,Premium,Television,2372,8,2023-12-17
+CUST0265,Male,18-25,Delhi,Home Appliances,Discount,Billboards,4293,5,2023-12-17
+CUST0266,Female,36-45,Karnataka,Home Appliances,Discount,Social Media,1692,9,2023-12-17
+CUST0267,Female,36-45,Tamil Nadu,Food,Premium,Online Ads,4925,5,2023-12-17
+CUST0268,Female,18-25,Tamil Nadu,Clothing,Premium,Television,1964,1,2023-12-17
+CUST0269,Male,56+,Delhi,Books,Discount,Social Media,890,9,2023-12-17
+CUST0270,Male,46-55,Uttar Pradesh,Books,Premium,Television,4976,5,2023-12-17
+CUST0271,Female,46-55,Karnataka,Food,Discount,Television,3877,6,2023-12-17
+CUST0272,Female,26-35,Tamil Nadu,Clothing,Premium,Television,1172,4,2023-12-17
+CUST0273,Female,56+,Delhi,Electronics,Premium,Social Media,3060,6,2023-12-17
+CUST0274,Female,36-45,Tamil Nadu,Food,Premium,Billboards,1711,8,2023-12-17
+CUST0275,Male,18-25,Karnataka,Food,Discount,Social Media,1429,3,2023-12-17
+CUST0276,Female,26-35,Karnataka,Books,Premium,Television,2039,5,2023-12-17
+CUST0277,Male,46-55,Maharashtra,Food,Discount,Social Media,1412,2,2023-12-17
+CUST0278,Female,36-45,Delhi,Food,Discount,Online Ads,1143,2,2023-12-17
+CUST0279,Male,36-45,Karnataka,Food,Premium,Billboards,1001,7,2023-12-17
+CUST0280,Female,18-25,Maharashtra,Books,Premium,Social Media,1229,6,2023-12-18
+CUST0281,Female,46-55,Maharashtra,Electronics,Discount,Online Ads,1783,4,2023-12-18
+CUST0282,Female,56+,Tamil Nadu,Electronics,Discount,Billboards,2618,5,2023-12-18
+CUST0283,Female,36-45,Tamil Nadu,Food,Standard,Online Ads,4886,1,2023-12-18
+CUST0284,Male,18-25,Maharashtra,Books,Discount,Billboards,4336,7,2023-12-18
+CUST0285,Female,56+,Tamil Nadu,Electronics,Standard,Social Media,1419,8,2023-12-18
+CUST0286,Male,46-55,Karnataka,Electronics,Standard,Online Ads,4550,9,2023-12-18
+CUST0287,Male,36-45,Uttar Pradesh,Electronics,Standard,Television,2839,8,2023-12-18
+CUST0288,Male,56+,Karnataka,Books,Premium,Online Ads,1255,5,2023-12-18
+CUST0289,Male,56+,Maharashtra,Books,Premium,Billboards,2369,3,2023-12-18
+CUST0290,Female,56+,Maharashtra,Food,Discount,Social Media,4972,9,2023-12-18
+CUST0291,Male,36-45,Karnataka,Home Appliances,Standard,Billboards,1007,6,2023-12-18
+CUST0292,Male,36-45,Tamil Nadu,Electronics,Premium,Online Ads,1936,5,2023-12-18
+CUST0293,Male,26-35,Tamil Nadu,Home Appliances,Premium,Online Ads,3075,3,2023-12-18
+CUST0294,Female,46-55,Maharashtra,Books,Premium,Television,3926,6,2023-12-18
+CUST0295,Female,18-25,Delhi,Books,Premium,Social Media,1058,3,2023-12-18
+CUST0296,Female,56+,Tamil Nadu,Books,Premium,Social Media,3602,6,2023-12-19
+CUST0297,Female,26-35,Karnataka,Home Appliances,Standard,Online Ads,4122,4,2023-12-19
+CUST0298,Male,18-25,Tamil Nadu,Books,Standard,Social Media,4899,2,2023-12-19
+CUST0299,Male,26-35,Karnataka,Food,Standard,Television,4557,8,2023-12-19
+CUST0300,Female,36-45,Maharashtra,Books,Standard,Billboards,4215,4,2023-12-19
+CUST0301,Male,56+,Tamil Nadu,Clothing,Discount,Social Media,1801,9,2023-12-19
+CUST0302,Male,18-25,Karnataka,Home Appliances,Standard,Online Ads,2655,7,2023-12-19
+CUST0303,Male,18-25,Maharashtra,Clothing,Premium,Billboards,1192,2,2023-12-19
+CUST0304,Female,18-25,Delhi,Books,Standard,Billboards,4850,4,2023-12-19
+CUST0305,Female,18-25,Karnataka,Food,Discount,Television,1978,5,2023-12-19
+CUST0306,Male,18-25,Delhi,Electronics,Premium,Online Ads,756,3,2023-12-19
+CUST0307,Female,26-35,Delhi,Books,Standard,Social Media,2930,9,2023-12-19
+CUST0308,Female,56+,Uttar Pradesh,Food,Standard,Online Ads,941,5,2023-12-19
+CUST0309,Female,36-45,Tamil Nadu,Home Appliances,Standard,Billboards,2381,2,2023-12-19
+CUST0310,Female,36-45,Karnataka,Clothing,Premium,Online Ads,3146,3,2023-12-19
+CUST0311,Female,36-45,Delhi,Clothing,Premium,Social Media,4320,9,2023-12-19
+CUST0312,Male,36-45,Uttar Pradesh,Clothing,Discount,Social Media,2235,7,2023-12-19
+CUST0313,Female,26-35,Maharashtra,Home Appliances,Premium,Television,4235,2,2023-12-20
+CUST0314,Male,46-55,Karnataka,Food,Premium,Social Media,3145,9,2023-12-20
+CUST0315,Male,56+,Delhi,Home Appliances,Standard,Social Media,518,4,2023-12-20
+CUST0316,Female,18-25,Tamil Nadu,Clothing,Premium,Online Ads,1624,9,2023-12-20
+CUST0317,Male,46-55,Uttar Pradesh,Books,Standard,Online Ads,4485,2,2023-12-20
+CUST0318,Male,36-45,Delhi,Electronics,Standard,Billboards,3154,4,2023-12-20
+CUST0319,Male,46-55,Tamil Nadu,Home Appliances,Premium,Television,2580,5,2023-12-20
+CUST0320,Female,56+,Delhi,Home Appliances,Discount,Online Ads,2047,2,2023-12-20
+CUST0321,Female,18-25,Karnataka,Food,Discount,Social Media,1361,1,2023-12-20
+CUST0322,Male,18-25,Karnataka,Food,Premium,Billboards,654,7,2023-12-20
+CUST0323,Female,56+,Karnataka,Home Appliances,Discount,Online Ads,3994,1,2023-12-20
+CUST0324,Female,56+,Uttar Pradesh,Clothing,Standard,Television,1404,8,2023-12-20
+CUST0325,Female,36-45,Karnataka,Electronics,Standard,Television,1769,3,2023-12-20
+CUST0326,Female,18-25,Tamil Nadu,Food,Premium,Billboards,904,6,2023-12-20
+CUST0327,Male,46-55,Delhi,Clothing,Discount,Billboards,1343,7,2023-12-20
+CUST0328,Male,26-35,Maharashtra,Books,Discount,Billboards,2282,1,2023-12-20
+CUST0329,Female,26-35,Tamil Nadu,Food,Standard,Billboards,2064,6,2023-12-21
+CUST0330,Female,56+,Tamil Nadu,Clothing,Premium,Billboards,1684,7,2023-12-21
+CUST0331,Male,36-45,Karnataka,Clothing,Discount,Social Media,1246,6,2023-12-21
+CUST0332,Male,26-35,Uttar Pradesh,Electronics,Premium,Social Media,2225,4,2023-12-21
+CUST0333,Female,18-25,Delhi,Electronics,Discount,Online Ads,3688,1,2023-12-21
+CUST0334,Male,56+,Uttar Pradesh,Books,Standard,Television,770,9,2023-12-21
+CUST0335,Female,46-55,Delhi,Clothing,Standard,Social Media,4456,4,2023-12-21
+CUST0336,Female,56+,Delhi,Clothing,Premium,Social Media,671,7,2023-12-21
+CUST0337,Male,46-55,Uttar Pradesh,Electronics,Standard,Social Media,773,7,2023-12-21
+CUST0338,Male,56+,Tamil Nadu,Food,Discount,Online Ads,2806,2,2023-12-21
+CUST0339,Female,56+,Delhi,Food,Standard,Billboards,1658,1,2023-12-21
+CUST0340,Female,56+,Uttar Pradesh,Home Appliances,Premium,Online Ads,2206,8,2023-12-21
+CUST0341,Male,46-55,Delhi,Electronics,Premium,Television,2271,8,2023-12-21
+CUST0342,Female,46-55,Maharashtra,Home Appliances,Premium,Television,921,7,2023-12-21
+CUST0343,Male,56+,Tamil Nadu,Electronics,Discount,Television,1709,8,2023-12-21
+CUST0344,Female,26-35,Karnataka,Books,Discount,Television,1390,3,2023-12-21
+CUST0345,Male,36-45,Delhi,Clothing,Discount,Social Media,3767,2,2023-12-22
+CUST0346,Male,36-45,Maharashtra,Books,Discount,Social Media,1973,7,2023-12-22
+CUST0347,Male,36-45,Karnataka,Electronics,Discount,Online Ads,3743,8,2023-12-22
+CUST0348,Female,46-55,Karnataka,Clothing,Standard,Billboards,4978,1,2023-12-22
+CUST0349,Female,46-55,Delhi,Food,Discount,Television,2681,9,2023-12-22
+CUST0350,Male,26-35,Uttar Pradesh,Food,Discount,Online Ads,1949,4,2023-12-22
+CUST0351,Female,36-45,Delhi,Home Appliances,Standard,Social Media,3596,4,2023-12-22
+CUST0352,Male,36-45,Maharashtra,Electronics,Discount,Social Media,3756,3,2023-12-22
+CUST0353,Male,56+,Karnataka,Electronics,Premium,Billboards,3656,6,2023-12-22
+CUST0354,Female,46-55,Delhi,Food,Discount,Billboards,2090,1,2023-12-22
+CUST0355,Female,36-45,Uttar Pradesh,Books,Discount,Billboards,4739,6,2023-12-22
+CUST0356,Male,26-35,Delhi,Clothing,Premium,Online Ads,4481,2,2023-12-22
+CUST0357,Female,26-35,Tamil Nadu,Books,Premium,Social Media,1935,9,2023-12-22
+CUST0358,Female,36-45,Uttar Pradesh,Books,Premium,Social Media,723,2,2023-12-22
+CUST0359,Male,46-55,Maharashtra,Food,Premium,Billboards,719,7,2023-12-22
+CUST0360,Male,26-35,Karnataka,Food,Discount,Television,4774,1,2023-12-22
+CUST0361,Female,56+,Delhi,Food,Premium,Billboards,2154,7,2023-12-22
+CUST0362,Male,26-35,Uttar Pradesh,Home Appliances,Premium,Online Ads,764,5,2023-12-23
+CUST0363,Male,18-25,Tamil Nadu,Books,Standard,Billboards,1453,8,2023-12-23
+CUST0364,Female,18-25,Uttar Pradesh,Electronics,Premium,Billboards,4233,4,2023-12-23
+CUST0365,Male,46-55,Tamil Nadu,Clothing,Premium,Online Ads,3274,7,2023-12-23
+CUST0366,Male,36-45,Maharashtra,Home Appliances,Standard,Billboards,3624,6,2023-12-23
+CUST0367,Female,46-55,Karnataka,Electronics,Standard,Social Media,979,5,2023-12-23
+CUST0368,Female,46-55,Maharashtra,Books,Discount,Television,4014,4,2023-12-23
+CUST0369,Male,46-55,Delhi,Food,Standard,Billboards,1853,7,2023-12-23
+CUST0370,Male,46-55,Uttar Pradesh,Books,Discount,Online Ads,3822,5,2023-12-23
+CUST0371,Female,56+,Tamil Nadu,Clothing,Standard,Television,4378,5,2023-12-23
+CUST0372,Female,56+,Tamil Nadu,Home Appliances,Standard,Online Ads,1389,1,2023-12-23
+CUST0373,Female,26-35,Uttar Pradesh,Home Appliances,Discount,Television,4354,2,2023-12-23
+CUST0374,Female,18-25,Uttar Pradesh,Clothing,Standard,Television,1424,5,2023-12-23
+CUST0375,Male,46-55,Delhi,Electronics,Discount,Billboards,2670,3,2023-12-23
+CUST0376,Female,26-35,Maharashtra,Electronics,Standard,Social Media,2402,2,2023-12-23
+CUST0377,Female,18-25,Tamil Nadu,Home Appliances,Premium,Billboards,2895,4,2023-12-23
+CUST0378,Male,36-45,Delhi,Home Appliances,Standard,Online Ads,528,4,2023-12-24
+CUST0379,Female,56+,Maharashtra,Food,Discount,Online Ads,534,4,2023-12-24
+CUST0380,Male,18-25,Delhi,Electronics,Standard,Television,4089,4,2023-12-24
+CUST0381,Female,36-45,Tamil Nadu,Clothing,Discount,Television,3170,3,2023-12-24
+CUST0382,Female,18-25,Uttar Pradesh,Electronics,Discount,Social Media,3865,7,2023-12-24
+CUST0383,Female,56+,Uttar Pradesh,Food,Premium,Billboards,1088,9,2023-12-24
+CUST0384,Male,56+,Maharashtra,Home Appliances,Premium,Online Ads,3718,5,2023-12-24
+CUST0385,Male,26-35,Karnataka,Home Appliances,Discount,Television,3638,4,2023-12-24
+CUST0386,Female,46-55,Maharashtra,Food,Standard,Social Media,1403,2,2023-12-24
+CUST0387,Male,18-25,Karnataka,Clothing,Discount,Online Ads,4586,2,2023-12-24
+CUST0388,Male,18-25,Delhi,Home Appliances,Discount,Television,2669,5,2023-12-24
+CUST0389,Male,36-45,Delhi,Books,Standard,Online Ads,839,7,2023-12-24
+CUST0390,Male,56+,Tamil Nadu,Home Appliances,Standard,Social Media,4770,9,2023-12-24
+CUST0391,Male,18-25,Karnataka,Books,Standard,Social Media,2214,7,2023-12-24
+CUST0392,Male,56+,Tamil Nadu,Food,Standard,Online Ads,1056,5,2023-12-24
+CUST0393,Female,18-25,Uttar Pradesh,Food,Discount,Billboards,3587,6,2023-12-24
+CUST0394,Female,26-35,Karnataka,Home Appliances,Discount,Online Ads,3766,3,2023-12-24
+CUST0395,Male,46-55,Maharashtra,Electronics,Premium,Television,4067,5,2023-12-25
+CUST0396,Female,18-25,Uttar Pradesh,Books,Discount,Billboards,2556,8,2023-12-25
+CUST0397,Female,56+,Uttar Pradesh,Clothing,Standard,Television,4399,1,2023-12-25
+CUST0398,Female,26-35,Maharashtra,Home Appliances,Premium,Online Ads,1516,1,2023-12-25
+CUST0399,Female,18-25,Uttar Pradesh,Clothing,Standard,Billboards,2562,7,2023-12-25
+CUST0400,Male,36-45,Karnataka,Home Appliances,Discount,Television,1338,5,2023-12-25
+CUST0401,Female,46-55,Tamil Nadu,Electronics,Premium,Online Ads,2137,5,2023-12-25
+CUST0402,Female,18-25,Uttar Pradesh,Electronics,Standard,Online Ads,4821,1,2023-12-25
+CUST0403,Male,26-35,Karnataka,Electronics,Premium,Billboards,3996,9,2023-12-25
+CUST0404,Male,36-45,Delhi,Electronics,Premium,Online Ads,2313,1,2023-12-25
+CUST0405,Female,26-35,Karnataka,Food,Discount,Social Media,3979,5,2023-12-25
+CUST0406,Female,26-35,Tamil Nadu,Food,Standard,Television,1951,9,2023-12-25
+CUST0407,Female,36-45,Karnataka,Books,Premium,Television,2813,4,2023-12-25
+CUST0408,Female,26-35,Maharashtra,Clothing,Premium,Online Ads,2014,8,2023-12-25
+CUST0409,Female,36-45,Tamil Nadu,Home Appliances,Standard,Online Ads,1731,6,2023-12-25
+CUST0410,Female,18-25,Delhi,Home Appliances,Premium,Social Media,2145,3,2023-12-25
+CUST0411,Male,36-45,Maharashtra,Food,Premium,Billboards,3499,4,2023-12-26
+CUST0412,Female,36-45,Karnataka,Home Appliances,Premium,Online Ads,3940,2,2023-12-26
+CUST0413,Female,46-55,Tamil Nadu,Food,Standard,Online Ads,4556,1,2023-12-26
+CUST0414,Male,36-45,Delhi,Books,Standard,Online Ads,805,8,2023-12-26
+CUST0415,Male,36-45,Maharashtra,Clothing,Standard,Online Ads,4036,1,2023-12-26
+CUST0416,Male,18-25,Delhi,Books,Standard,Television,2223,1,2023-12-26
+CUST0417,Male,46-55,Karnataka,Electronics,Discount,Online Ads,2189,4,2023-12-26
+CUST0418,Female,56+,Delhi,Electronics,Premium,Television,2017,6,2023-12-26
+CUST0419,Female,18-25,Uttar Pradesh,Electronics,Standard,Online Ads,4417,9,2023-12-26
+CUST0420,Female,18-25,Maharashtra,Books,Premium,Billboards,919,1,2023-12-26
+CUST0421,Female,56+,Delhi,Home Appliances,Premium,Social Media,3436,7,2023-12-26
+CUST0422,Female,36-45,Karnataka,Clothing,Discount,Billboards,4362,5,2023-12-26
+CUST0423,Female,26-35,Karnataka,Electronics,Standard,Online Ads,4729,8,2023-12-26
+CUST0424,Male,46-55,Delhi,Electronics,Standard,Online Ads,1950,7,2023-12-26
+CUST0425,Female,26-35,Karnataka,Electronics,Premium,Online Ads,3596,4,2023-12-26
+CUST0426,Male,56+,Tamil Nadu,Clothing,Standard,Billboards,3761,4,2023-12-26
+CUST0427,Male,18-25,Tamil Nadu,Electronics,Premium,Online Ads,1664,6,2023-12-27
+CUST0428,Female,18-25,Tamil Nadu,Clothing,Premium,Billboards,2369,6,2023-12-27
+CUST0429,Male,46-55,Uttar Pradesh,Electronics,Discount,Television,2319,9,2023-12-27
+CUST0430,Female,18-25,Delhi,Books,Discount,Social Media,3205,5,2023-12-27
+CUST0431,Male,18-25,Uttar Pradesh,Books,Discount,Social Media,4015,8,2023-12-27
+CUST0432,Female,46-55,Karnataka,Clothing,Premium,Billboards,1842,5,2023-12-27
+CUST0433,Male,46-55,Uttar Pradesh,Books,Standard,Television,2726,2,2023-12-27
+CUST0434,Female,56+,Karnataka,Clothing,Discount,Billboards,1579,6,2023-12-27
+CUST0435,Female,18-25,Karnataka,Books,Standard,Television,4706,9,2023-12-27
+CUST0436,Female,18-25,Maharashtra,Books,Discount,Online Ads,3279,3,2023-12-27
+CUST0437,Female,56+,Tamil Nadu,Clothing,Discount,Television,3028,1,2023-12-27
+CUST0438,Female,36-45,Karnataka,Home Appliances,Premium,Television,1313,1,2023-12-27
+CUST0439,Male,36-45,Maharashtra,Books,Discount,Television,2531,3,2023-12-27
+CUST0440,Male,36-45,Tamil Nadu,Electronics,Discount,Social Media,822,5,2023-12-27
+CUST0441,Male,56+,Karnataka,Home Appliances,Premium,Television,3469,3,2023-12-27
+CUST0442,Female,18-25,Karnataka,Clothing,Standard,Online Ads,1403,9,2023-12-27
+CUST0443,Male,56+,Uttar Pradesh,Home Appliances,Discount,Online Ads,2041,8,2023-12-27
+CUST0444,Female,56+,Uttar Pradesh,Food,Premium,Online Ads,4003,3,2023-12-28
+CUST0445,Female,36-45,Tamil Nadu,Food,Discount,Television,3153,9,2023-12-28
+CUST0446,Male,26-35,Karnataka,Books,Premium,Billboards,2976,6,2023-12-28
+CUST0447,Male,18-25,Delhi,Books,Standard,Billboards,3840,7,2023-12-28
+CUST0448,Female,36-45,Uttar Pradesh,Electronics,Standard,Online Ads,4743,4,2023-12-28
+CUST0449,Male,26-35,Tamil Nadu,Home Appliances,Premium,Social Media,1641,4,2023-12-28
+CUST0450,Female,26-35,Karnataka,Food,Premium,Billboards,1349,2,2023-12-28
+CUST0451,Female,46-55,Karnataka,Books,Premium,Television,866,5,2023-12-28
+CUST0452,Female,18-25,Delhi,Home Appliances,Standard,Billboards,3397,8,2023-12-28
+CUST0453,Female,26-35,Tamil Nadu,Books,Discount,Online Ads,1589,7,2023-12-28
+CUST0454,Female,36-45,Karnataka,Books,Standard,Social Media,4541,7,2023-12-28
+CUST0455,Male,46-55,Uttar Pradesh,Food,Premium,Billboards,2538,6,2023-12-28
+CUST0456,Male,18-25,Delhi,Food,Premium,Billboards,3360,3,2023-12-28
+CUST0457,Female,56+,Tamil Nadu,Books,Standard,Online Ads,4770,5,2023-12-28
+CUST0458,Female,36-45,Delhi,Clothing,Premium,Social Media,2354,1,2023-12-28
+CUST0459,Male,26-35,Uttar Pradesh,Books,Standard,Social Media,994,7,2023-12-28
+CUST0460,Male,26-35,Tamil Nadu,Books,Premium,Online Ads,3682,9,2023-12-29
+CUST0461,Female,36-45,Delhi,Electronics,Discount,Television,2284,1,2023-12-29
+CUST0462,Male,26-35,Maharashtra,Electronics,Discount,Billboards,4010,2,2023-12-29
+CUST0463,Female,46-55,Uttar Pradesh,Electronics,Premium,Television,4286,3,2023-12-29
+CUST0464,Male,18-25,Uttar Pradesh,Clothing,Standard,Billboards,4630,3,2023-12-29
+CUST0465,Female,46-55,Uttar Pradesh,Clothing,Discount,Billboards,1498,8,2023-12-29
+CUST0466,Male,26-35,Maharashtra,Books,Standard,Television,4969,7,2023-12-29
+CUST0467,Female,56+,Maharashtra,Electronics,Premium,Online Ads,1951,6,2023-12-29
+CUST0468,Male,18-25,Karnataka,Clothing,Standard,Online Ads,2251,4,2023-12-29
+CUST0469,Male,18-25,Delhi,Food,Discount,Billboards,2780,9,2023-12-29
+CUST0470,Female,36-45,Karnataka,Books,Standard,Online Ads,3434,1,2023-12-29
+CUST0471,Male,36-45,Delhi,Home Appliances,Standard,Billboards,4234,2,2023-12-29
+CUST0472,Female,56+,Maharashtra,Books,Premium,Online Ads,3846,4,2023-12-29
+CUST0473,Male,18-25,Maharashtra,Home Appliances,Premium,Billboards,2373,3,2023-12-29
+CUST0474,Female,56+,Karnataka,Electronics,Premium,Online Ads,4303,1,2023-12-29
+CUST0475,Male,36-45,Tamil Nadu,Home Appliances,Discount,Social Media,2479,5,2023-12-29
+CUST0476,Female,36-45,Karnataka,Electronics,Discount,Television,1198,7,2023-12-30
+CUST0477,Male,18-25,Delhi,Food,Premium,Social Media,1812,2,2023-12-30
+CUST0478,Female,46-55,Karnataka,Home Appliances,Premium,Television,3462,5,2023-12-30
+CUST0479,Male,26-35,Uttar Pradesh,Books,Discount,Television,3438,6,2023-12-30
+CUST0480,Female,36-45,Delhi,Electronics,Discount,Billboards,2800,7,2023-12-30
+CUST0481,Female,36-45,Delhi,Books,Discount,Television,3697,1,2023-12-30
+CUST0482,Female,46-55,Tamil Nadu,Clothing,Discount,Social Media,626,7,2023-12-30
+CUST0483,Male,46-55,Maharashtra,Electronics,Premium,Social Media,1691,4,2023-12-30
+CUST0484,Female,56+,Delhi,Home Appliances,Discount,Online Ads,3139,8,2023-12-30
+CUST0485,Male,56+,Maharashtra,Electronics,Premium,Social Media,4889,4,2023-12-30
+CUST0486,Female,26-35,Karnataka,Books,Standard,Online Ads,4416,6,2023-12-30
+CUST0487,Male,26-35,Uttar Pradesh,Food,Standard,Television,1866,9,2023-12-30
+CUST0488,Female,18-25,Tamil Nadu,Electronics,Discount,Social Media,1519,5,2023-12-30
+CUST0489,Male,56+,Maharashtra,Home Appliances,Standard,Television,4579,4,2023-12-30
+CUST0490,Male,36-45,Delhi,Clothing,Standard,Social Media,1184,8,2023-12-30
+CUST0491,Female,56+,Maharashtra,Food,Standard,Social Media,4129,9,2023-12-30
+CUST0492,Male,36-45,Delhi,Clothing,Discount,Online Ads,3387,4,2023-12-30
+CUST0493,Male,46-55,Maharashtra,Electronics,Discount,Television,1962,3,2023-12-31
+CUST0494,Female,56+,Delhi,Books,Standard,Social Media,4586,8,2023-12-31
+CUST0495,Male,46-55,Karnataka,Books,Premium,Billboards,2761,5,2023-12-31
+CUST0496,Male,26-35,Delhi,Home Appliances,Standard,Television,4680,2,2023-12-31
+CUST0497,Male,26-35,Delhi,Books,Discount,Television,3341,9,2023-12-31
+CUST0498,Female,18-25,Uttar Pradesh,Food,Discount,Television,2267,3,2023-12-31
+CUST0499,Male,56+,Delhi,Books,Discount,Online Ads,4680,2,2023-12-31
+CUST0500,Female,46-55,Uttar Pradesh,Home Appliances,Standard,Billboards,4060,1,2023-12-31
+CUST0501,Male,36-45,Tamil Nadu,Electronics,Premium,Television,2612,8,2023-12-31
+CUST0502,Male,26-35,Uttar Pradesh,Electronics,Discount,Social Media,1126,3,2023-12-31
+CUST0503,Male,26-35,Karnataka,Books,Discount,Social Media,4659,7,2023-12-31
+CUST0504,Female,36-45,Uttar Pradesh,Clothing,Standard,Online Ads,3914,1,2023-12-31
+CUST0505,Male,46-55,Tamil Nadu,Electronics,Premium,Social Media,1875,1,2023-12-31
+CUST0506,Male,46-55,Karnataka,Books,Standard,Television,1681,9,2023-12-31
+CUST0507,Female,56+,Maharashtra,Home Appliances,Discount,Social Media,990,8,2023-12-31
+CUST0508,Male,56+,Maharashtra,Books,Premium,Television,4229,3,2023-12-31
+CUST0509,Female,18-25,Uttar Pradesh,Electronics,Premium,Social Media,4034,6,2024-01-01
+CUST0510,Female,26-35,Uttar Pradesh,Home Appliances,Discount,Billboards,3796,3,2024-01-01
+CUST0511,Male,56+,Tamil Nadu,Books,Premium,Online Ads,2440,4,2024-01-01
+CUST0512,Female,46-55,Tamil Nadu,Food,Premium,Online Ads,4908,1,2024-01-01
+CUST0513,Male,36-45,Delhi,Home Appliances,Standard,Billboards,2382,5,2024-01-01
+CUST0514,Female,46-55,Tamil Nadu,Food,Discount,Billboards,3487,1,2024-01-01
+CUST0515,Female,26-35,Delhi,Clothing,Discount,Online Ads,3659,1,2024-01-01
+CUST0516,Male,46-55,Karnataka,Home Appliances,Discount,Billboards,1181,7,2024-01-01
+CUST0517,Female,18-25,Uttar Pradesh,Food,Discount,Television,1573,6,2024-01-01
+CUST0518,Female,26-35,Karnataka,Electronics,Discount,Social Media,2887,2,2024-01-01
+CUST0519,Female,36-45,Tamil Nadu,Electronics,Premium,Online Ads,2894,2,2024-01-01
+CUST0520,Female,18-25,Karnataka,Clothing,Standard,Billboards,3193,7,2024-01-01
+CUST0521,Female,26-35,Karnataka,Home Appliances,Discount,Television,1870,1,2024-01-01
+CUST0522,Male,36-45,Karnataka,Home Appliances,Standard,Online Ads,4840,2,2024-01-01
+CUST0523,Female,18-25,Tamil Nadu,Home Appliances,Standard,Billboards,2656,8,2024-01-01
+CUST0524,Male,18-25,Karnataka,Clothing,Premium,Online Ads,3080,6,2024-01-01
+CUST0525,Female,26-35,Delhi,Home Appliances,Discount,Billboards,4891,2,2024-01-01
+CUST0526,Male,56+,Tamil Nadu,Electronics,Premium,Online Ads,2659,7,2024-01-02
+CUST0527,Male,18-25,Karnataka,Food,Discount,Television,3748,4,2024-01-02
+CUST0528,Female,18-25,Tamil Nadu,Electronics,Premium,Television,4231,2,2024-01-02
+CUST0529,Female,36-45,Maharashtra,Electronics,Standard,Social Media,4329,6,2024-01-02
+CUST0530,Female,46-55,Delhi,Food,Discount,Online Ads,2127,9,2024-01-02
+CUST0531,Male,26-35,Karnataka,Electronics,Standard,Social Media,3972,9,2024-01-02
+CUST0532,Female,26-35,Maharashtra,Clothing,Standard,Online Ads,527,8,2024-01-02
+CUST0533,Male,56+,Maharashtra,Food,Premium,Billboards,2485,3,2024-01-02
+CUST0534,Male,56+,Tamil Nadu,Electronics,Discount,Billboards,4653,3,2024-01-02
+CUST0535,Male,26-35,Maharashtra,Books,Standard,Social Media,2021,2,2024-01-02
+CUST0536,Female,56+,Delhi,Electronics,Premium,Online Ads,796,5,2024-01-02
+CUST0537,Female,36-45,Delhi,Clothing,Discount,Social Media,2681,4,2024-01-02
+CUST0538,Male,26-35,Uttar Pradesh,Home Appliances,Discount,Television,3902,7,2024-01-02
+CUST0539,Male,56+,Delhi,Electronics,Standard,Social Media,2796,4,2024-01-02
+CUST0540,Female,26-35,Maharashtra,Home Appliances,Discount,Social Media,3097,9,2024-01-02
+CUST0541,Male,46-55,Delhi,Books,Standard,Billboards,1401,2,2024-01-02
+CUST0542,Female,18-25,Tamil Nadu,Electronics,Discount,Social Media,1598,6,2024-01-03
+CUST0543,Male,26-35,Uttar Pradesh,Food,Premium,Online Ads,2177,7,2024-01-03
+CUST0544,Female,18-25,Maharashtra,Home Appliances,Standard,Billboards,3381,4,2024-01-03
+CUST0545,Male,56+,Uttar Pradesh,Books,Standard,Social Media,1878,6,2024-01-03
+CUST0546,Female,18-25,Maharashtra,Food,Discount,Television,1748,7,2024-01-03
+CUST0547,Male,26-35,Tamil Nadu,Food,Discount,Social Media,4235,4,2024-01-03
+CUST0548,Female,46-55,Uttar Pradesh,Food,Standard,Social Media,4741,8,2024-01-03
+CUST0549,Female,56+,Karnataka,Food,Discount,Social Media,1764,9,2024-01-03
+CUST0550,Male,26-35,Maharashtra,Electronics,Premium,Billboards,2407,1,2024-01-03
+CUST0551,Male,56+,Karnataka,Electronics,Discount,Online Ads,1558,7,2024-01-03
+CUST0552,Female,36-45,Uttar Pradesh,Electronics,Premium,Television,3249,9,2024-01-03
+CUST0553,Male,18-25,Karnataka,Books,Premium,Social Media,2548,5,2024-01-03
+CUST0554,Female,36-45,Karnataka,Books,Premium,Online Ads,4748,2,2024-01-03
+CUST0555,Male,26-35,Uttar Pradesh,Books,Premium,Online Ads,2976,6,2024-01-03
+CUST0556,Female,46-55,Tamil Nadu,Clothing,Premium,Billboards,4516,7,2024-01-03
+CUST0557,Female,56+,Karnataka,Books,Discount,Television,3697,2,2024-01-03
+CUST0558,Female,18-25,Karnataka,Electronics,Premium,Billboards,4053,2,2024-01-04
+CUST0559,Female,56+,Tamil Nadu,Electronics,Discount,Online Ads,4940,1,2024-01-04
+CUST0560,Female,26-35,Karnataka,Clothing,Premium,Online Ads,2261,4,2024-01-04
+CUST0561,Female,56+,Karnataka,Clothing,Standard,Online Ads,720,7,2024-01-04
+CUST0562,Male,18-25,Karnataka,Books,Premium,Billboards,3388,9,2024-01-04
+CUST0563,Male,26-35,Delhi,Home Appliances,Standard,Television,2164,3,2024-01-04
+CUST0564,Male,56+,Tamil Nadu,Clothing,Premium,Social Media,4486,7,2024-01-04
+CUST0565,Female,46-55,Karnataka,Food,Premium,Billboards,3477,7,2024-01-04
+CUST0566,Female,26-35,Tamil Nadu,Electronics,Premium,Online Ads,2371,7,2024-01-04
+CUST0567,Female,26-35,Maharashtra,Food,Standard,Billboards,1962,2,2024-01-04
+CUST0568,Female,46-55,Maharashtra,Electronics,Standard,Online Ads,844,6,2024-01-04
+CUST0569,Male,36-45,Karnataka,Electronics,Premium,Social Media,544,2,2024-01-04
+CUST0570,Male,18-25,Tamil Nadu,Clothing,Discount,Social Media,2568,6,2024-01-04
+CUST0571,Female,36-45,Tamil Nadu,Clothing,Premium,Television,2014,3,2024-01-04
+CUST0572,Male,56+,Tamil Nadu,Food,Standard,Online Ads,3098,2,2024-01-04
+CUST0573,Male,46-55,Delhi,Electronics,Premium,Television,1501,6,2024-01-04
+CUST0574,Female,36-45,Maharashtra,Food,Standard,Television,1533,2,2024-01-04
+CUST0575,Male,26-35,Tamil Nadu,Home Appliances,Standard,Social Media,2540,5,2024-01-05
+CUST0576,Female,56+,Tamil Nadu,Food,Standard,Billboards,773,2,2024-01-05
+CUST0577,Male,56+,Delhi,Books,Premium,Billboards,3147,3,2024-01-05
+CUST0578,Female,36-45,Delhi,Food,Standard,Television,2279,3,2024-01-05
+CUST0579,Female,36-45,Tamil Nadu,Books,Standard,Social Media,4976,6,2024-01-05
+CUST0580,Female,46-55,Uttar Pradesh,Books,Premium,Online Ads,978,6,2024-01-05
+CUST0581,Female,18-25,Tamil Nadu,Books,Standard,Billboards,1015,3,2024-01-05
+CUST0582,Male,36-45,Tamil Nadu,Home Appliances,Premium,Television,4786,3,2024-01-05
+CUST0583,Female,36-45,Delhi,Food,Standard,Billboards,1691,1,2024-01-05
+CUST0584,Female,26-35,Delhi,Food,Discount,Billboards,3168,7,2024-01-05
+CUST0585,Female,56+,Tamil Nadu,Home Appliances,Discount,Online Ads,1911,8,2024-01-05
+CUST0586,Male,18-25,Tamil Nadu,Electronics,Standard,Social Media,3780,2,2024-01-05
+CUST0587,Female,26-35,Tamil Nadu,Clothing,Discount,Online Ads,771,4,2024-01-05
+CUST0588,Male,46-55,Delhi,Food,Premium,Social Media,642,7,2024-01-05
+CUST0589,Female,46-55,Tamil Nadu,Clothing,Discount,Billboards,3832,8,2024-01-05
+CUST0590,Male,36-45,Tamil Nadu,Home Appliances,Standard,Television,1287,1,2024-01-05
+CUST0591,Male,36-45,Karnataka,Electronics,Standard,Online Ads,2181,4,2024-01-06
+CUST0592,Female,46-55,Uttar Pradesh,Electronics,Premium,Social Media,1122,6,2024-01-06
+CUST0593,Male,36-45,Maharashtra,Electronics,Standard,Billboards,4341,3,2024-01-06
+CUST0594,Female,18-25,Uttar Pradesh,Home Appliances,Premium,Social Media,4176,5,2024-01-06
+CUST0595,Female,36-45,Karnataka,Books,Discount,Social Media,3072,9,2024-01-06
+CUST0596,Female,56+,Maharashtra,Books,Discount,Social Media,3760,3,2024-01-06
+CUST0597,Male,36-45,Tamil Nadu,Clothing,Premium,Billboards,566,5,2024-01-06
+CUST0598,Male,26-35,Karnataka,Books,Premium,Television,4786,8,2024-01-06
+CUST0599,Female,18-25,Tamil Nadu,Books,Standard,Television,1640,6,2024-01-06
+CUST0600,Female,26-35,Delhi,Electronics,Discount,Television,2814,4,2024-01-06
+CUST0601,Male,26-35,Karnataka,Electronics,Premium,Social Media,3032,8,2024-01-06
+CUST0602,Female,56+,Delhi,Clothing,Discount,Billboards,4080,3,2024-01-06
+CUST0603,Female,18-25,Karnataka,Food,Premium,Social Media,1687,3,2024-01-06
+CUST0604,Female,18-25,Karnataka,Clothing,Discount,Television,4971,4,2024-01-06
+CUST0605,Male,18-25,Delhi,Clothing,Standard,Television,3839,9,2024-01-06
+CUST0606,Male,18-25,Maharashtra,Home Appliances,Discount,Billboards,1048,5,2024-01-06
+CUST0607,Male,18-25,Uttar Pradesh,Home Appliances,Discount,Social Media,4587,8,2024-01-07
+CUST0608,Female,56+,Tamil Nadu,Clothing,Discount,Online Ads,572,6,2024-01-07
+CUST0609,Female,36-45,Karnataka,Clothing,Discount,Online Ads,698,3,2024-01-07
+CUST0610,Female,26-35,Tamil Nadu,Clothing,Discount,Television,3701,8,2024-01-07
+CUST0611,Male,18-25,Delhi,Books,Standard,Billboards,2281,9,2024-01-07
+CUST0612,Female,36-45,Tamil Nadu,Home Appliances,Premium,Social Media,1071,8,2024-01-07
+CUST0613,Female,36-45,Delhi,Clothing,Discount,Social Media,1290,4,2024-01-07
+CUST0614,Female,26-35,Tamil Nadu,Electronics,Standard,Television,2138,6,2024-01-07
+CUST0615,Female,56+,Uttar Pradesh,Electronics,Discount,Television,2331,1,2024-01-07
+CUST0616,Male,46-55,Uttar Pradesh,Books,Discount,Social Media,2355,4,2024-01-07
+CUST0617,Male,46-55,Uttar Pradesh,Books,Premium,Social Media,1674,8,2024-01-07
+CUST0618,Female,36-45,Uttar Pradesh,Food,Discount,Television,4240,1,2024-01-07
+CUST0619,Male,26-35,Uttar Pradesh,Food,Standard,Social Media,3777,3,2024-01-07
+CUST0620,Male,46-55,Uttar Pradesh,Food,Standard,Online Ads,678,1,2024-01-07
+CUST0621,Female,36-45,Delhi,Books,Premium,Television,2744,9,2024-01-07
+CUST0622,Female,56+,Karnataka,Books,Discount,Social Media,4586,2,2024-01-07
+CUST0623,Male,46-55,Tamil Nadu,Books,Standard,Television,1234,9,2024-01-07
+CUST0624,Female,36-45,Uttar Pradesh,Electronics,Discount,Billboards,1298,4,2024-01-08
+CUST0625,Male,36-45,Delhi,Books,Discount,Television,1287,2,2024-01-08
+CUST0626,Female,18-25,Delhi,Electronics,Discount,Television,3295,4,2024-01-08
+CUST0627,Male,56+,Delhi,Food,Premium,Billboards,4804,6,2024-01-08
+CUST0628,Female,18-25,Karnataka,Food,Discount,Online Ads,3584,7,2024-01-08
+CUST0629,Male,26-35,Tamil Nadu,Food,Standard,Social Media,3418,3,2024-01-08
+CUST0630,Male,18-25,Karnataka,Clothing,Discount,Billboards,1231,3,2024-01-08
+CUST0631,Male,18-25,Maharashtra,Clothing,Standard,Television,1629,8,2024-01-08
+CUST0632,Female,46-55,Delhi,Home Appliances,Discount,Social Media,3946,5,2024-01-08
+CUST0633,Male,36-45,Maharashtra,Home Appliances,Standard,Billboards,2105,4,2024-01-08
+CUST0634,Male,56+,Uttar Pradesh,Home Appliances,Standard,Social Media,4278,7,2024-01-08
+CUST0635,Female,18-25,Uttar Pradesh,Clothing,Discount,Social Media,3245,7,2024-01-08
+CUST0636,Female,56+,Karnataka,Clothing,Discount,Billboards,3670,9,2024-01-08
+CUST0637,Male,18-25,Tamil Nadu,Home Appliances,Standard,Social Media,3433,9,2024-01-08
+CUST0638,Male,26-35,Maharashtra,Home Appliances,Premium,Online Ads,1715,5,2024-01-08
+CUST0639,Female,18-25,Tamil Nadu,Books,Discount,Billboards,824,8,2024-01-08
+CUST0640,Female,46-55,Karnataka,Home Appliances,Premium,Online Ads,2350,1,2024-01-09
+CUST0641,Female,36-45,Uttar Pradesh,Books,Discount,Television,1990,9,2024-01-09
+CUST0642,Female,26-35,Tamil Nadu,Electronics,Discount,Social Media,1393,8,2024-01-09
+CUST0643,Female,18-25,Tamil Nadu,Clothing,Discount,Television,1890,6,2024-01-09
+CUST0644,Male,56+,Uttar Pradesh,Home Appliances,Discount,Television,3889,3,2024-01-09
+CUST0645,Female,26-35,Maharashtra,Clothing,Premium,Social Media,4739,3,2024-01-09
+CUST0646,Male,26-35,Uttar Pradesh,Clothing,Discount,Billboards,4979,8,2024-01-09
+CUST0647,Male,18-25,Tamil Nadu,Clothing,Standard,Social Media,2763,5,2024-01-09
+CUST0648,Male,26-35,Maharashtra,Electronics,Standard,Television,3932,7,2024-01-09
+CUST0649,Female,56+,Maharashtra,Food,Premium,Television,2871,5,2024-01-09
+CUST0650,Male,26-35,Uttar Pradesh,Home Appliances,Discount,Billboards,3586,8,2024-01-09
+CUST0651,Male,56+,Tamil Nadu,Food,Standard,Social Media,4812,4,2024-01-09
+CUST0652,Female,18-25,Karnataka,Food,Premium,Television,2015,2,2024-01-09
+CUST0653,Male,36-45,Tamil Nadu,Food,Discount,Online Ads,3417,3,2024-01-09
+CUST0654,Male,26-35,Delhi,Clothing,Standard,Television,2852,8,2024-01-09
+CUST0655,Female,36-45,Karnataka,Books,Standard,Television,1667,7,2024-01-09
+CUST0656,Male,56+,Maharashtra,Clothing,Premium,Billboards,610,2,2024-01-09
+CUST0657,Male,26-35,Karnataka,Clothing,Discount,Online Ads,4827,6,2024-01-10
+CUST0658,Male,46-55,Maharashtra,Food,Discount,Television,4155,9,2024-01-10
+CUST0659,Female,36-45,Maharashtra,Clothing,Standard,Television,4293,4,2024-01-10
+CUST0660,Female,26-35,Karnataka,Food,Standard,Online Ads,2255,9,2024-01-10
+CUST0661,Female,36-45,Maharashtra,Books,Standard,Social Media,2077,2,2024-01-10
+CUST0662,Male,26-35,Maharashtra,Home Appliances,Discount,Social Media,1796,2,2024-01-10
+CUST0663,Male,18-25,Delhi,Food,Premium,Television,4274,9,2024-01-10
+CUST0664,Female,36-45,Tamil Nadu,Books,Premium,Television,2720,7,2024-01-10
+CUST0665,Male,46-55,Tamil Nadu,Home Appliances,Discount,Social Media,1472,7,2024-01-10
+CUST0666,Male,46-55,Delhi,Electronics,Premium,Billboards,1530,1,2024-01-10
+CUST0667,Female,56+,Karnataka,Food,Standard,Online Ads,3093,6,2024-01-10
+CUST0668,Female,26-35,Uttar Pradesh,Food,Premium,Online Ads,4492,7,2024-01-10
+CUST0669,Male,36-45,Uttar Pradesh,Electronics,Premium,Billboards,1413,6,2024-01-10
+CUST0670,Male,56+,Uttar Pradesh,Electronics,Premium,Billboards,2681,6,2024-01-10
+CUST0671,Male,36-45,Delhi,Food,Standard,Billboards,3697,2,2024-01-10
+CUST0672,Female,26-35,Delhi,Electronics,Discount,Billboards,1962,6,2024-01-10
+CUST0673,Female,46-55,Maharashtra,Clothing,Standard,Billboards,2878,4,2024-01-11
+CUST0674,Female,18-25,Uttar Pradesh,Home Appliances,Discount,Billboards,3954,9,2024-01-11
+CUST0675,Female,46-55,Karnataka,Home Appliances,Discount,Online Ads,4053,1,2024-01-11
+CUST0676,Male,56+,Karnataka,Home Appliances,Discount,Billboards,1807,8,2024-01-11
+CUST0677,Female,18-25,Uttar Pradesh,Clothing,Premium,Social Media,1689,5,2024-01-11
+CUST0678,Female,56+,Uttar Pradesh,Electronics,Premium,Billboards,1187,1,2024-01-11
+CUST0679,Female,26-35,Uttar Pradesh,Books,Discount,Billboards,1707,4,2024-01-11
+CUST0680,Female,18-25,Delhi,Electronics,Discount,Online Ads,2394,1,2024-01-11
+CUST0681,Female,56+,Delhi,Food,Premium,Online Ads,2311,6,2024-01-11
+CUST0682,Male,26-35,Delhi,Home Appliances,Standard,Billboards,3683,2,2024-01-11
+CUST0683,Male,46-55,Tamil Nadu,Electronics,Discount,Online Ads,4297,5,2024-01-11
+CUST0684,Female,26-35,Karnataka,Books,Standard,Television,2144,7,2024-01-11
+CUST0685,Male,36-45,Karnataka,Food,Premium,Online Ads,4468,2,2024-01-11
+CUST0686,Female,26-35,Maharashtra,Clothing,Discount,Online Ads,3216,6,2024-01-11
+CUST0687,Female,26-35,Delhi,Clothing,Standard,Online Ads,690,6,2024-01-11
+CUST0688,Male,36-45,Tamil Nadu,Books,Standard,Online Ads,1835,5,2024-01-11
+CUST0689,Male,56+,Tamil Nadu,Food,Standard,Social Media,3606,5,2024-01-12
+CUST0690,Female,56+,Karnataka,Home Appliances,Premium,Social Media,878,3,2024-01-12
+CUST0691,Female,26-35,Delhi,Electronics,Premium,Social Media,4982,2,2024-01-12
+CUST0692,Female,36-45,Maharashtra,Food,Standard,Billboards,4329,7,2024-01-12
+CUST0693,Male,36-45,Delhi,Clothing,Standard,Billboards,1115,1,2024-01-12
+CUST0694,Female,46-55,Uttar Pradesh,Books,Premium,Television,2830,6,2024-01-12
+CUST0695,Female,56+,Delhi,Books,Standard,Social Media,2254,6,2024-01-12
+CUST0696,Female,18-25,Uttar Pradesh,Electronics,Standard,Billboards,963,3,2024-01-12
+CUST0697,Male,56+,Uttar Pradesh,Books,Premium,Online Ads,1466,2,2024-01-12
+CUST0698,Female,56+,Maharashtra,Books,Standard,Online Ads,4767,2,2024-01-12
+CUST0699,Female,46-55,Karnataka,Food,Standard,Social Media,3658,9,2024-01-12
+CUST0700,Male,18-25,Delhi,Home Appliances,Standard,Television,4124,5,2024-01-12
+CUST0701,Female,46-55,Uttar Pradesh,Electronics,Premium,Television,1189,7,2024-01-12
+CUST0702,Female,18-25,Delhi,Food,Standard,Online Ads,3122,5,2024-01-12
+CUST0703,Male,26-35,Karnataka,Home Appliances,Premium,Television,2712,7,2024-01-12
+CUST0704,Female,18-25,Karnataka,Food,Premium,Social Media,882,4,2024-01-12
+CUST0705,Male,46-55,Tamil Nadu,Food,Discount,Online Ads,2756,8,2024-01-12
+CUST0706,Male,56+,Karnataka,Books,Discount,Billboards,4310,7,2024-01-13
+CUST0707,Female,18-25,Maharashtra,Home Appliances,Standard,Billboards,4003,5,2024-01-13
+CUST0708,Female,18-25,Uttar Pradesh,Electronics,Premium,Television,1912,6,2024-01-13
+CUST0709,Female,36-45,Tamil Nadu,Electronics,Discount,Online Ads,2083,5,2024-01-13
+CUST0710,Female,56+,Maharashtra,Home Appliances,Standard,Online Ads,871,7,2024-01-13
+CUST0711,Male,26-35,Delhi,Books,Discount,Billboards,1110,2,2024-01-13
+CUST0712,Female,46-55,Uttar Pradesh,Clothing,Discount,Online Ads,615,5,2024-01-13
+CUST0713,Male,26-35,Karnataka,Food,Premium,Online Ads,946,3,2024-01-13
+CUST0714,Female,56+,Uttar Pradesh,Books,Premium,Online Ads,1891,9,2024-01-13
+CUST0715,Female,18-25,Delhi,Home Appliances,Discount,Television,3824,6,2024-01-13
+CUST0716,Female,18-25,Tamil Nadu,Food,Discount,Online Ads,1840,3,2024-01-13
+CUST0717,Male,56+,Tamil Nadu,Electronics,Premium,Social Media,3439,7,2024-01-13
+CUST0718,Female,18-25,Tamil Nadu,Clothing,Standard,Television,4199,4,2024-01-13
+CUST0719,Female,18-25,Karnataka,Electronics,Premium,Online Ads,1573,3,2024-01-13
+CUST0720,Female,18-25,Maharashtra,Home Appliances,Discount,Online Ads,4069,8,2024-01-13
+CUST0721,Female,46-55,Maharashtra,Food,Standard,Social Media,3650,4,2024-01-13
+CUST0722,Male,46-55,Uttar Pradesh,Home Appliances,Discount,Television,2105,1,2024-01-14
+CUST0723,Female,36-45,Karnataka,Food,Standard,Billboards,2794,6,2024-01-14
+CUST0724,Male,26-35,Tamil Nadu,Books,Discount,Billboards,4162,1,2024-01-14
+CUST0725,Male,56+,Tamil Nadu,Clothing,Standard,Television,4982,5,2024-01-14
+CUST0726,Male,56+,Delhi,Books,Standard,Online Ads,1483,7,2024-01-14
+CUST0727,Male,56+,Delhi,Books,Discount,Online Ads,851,6,2024-01-14
+CUST0728,Male,36-45,Tamil Nadu,Home Appliances,Standard,Billboards,2224,2,2024-01-14
+CUST0729,Male,46-55,Tamil Nadu,Clothing,Premium,Billboards,2451,4,2024-01-14
+CUST0730,Female,36-45,Karnataka,Food,Discount,Billboards,1779,2,2024-01-14
+CUST0731,Male,56+,Maharashtra,Food,Premium,Social Media,2407,1,2024-01-14
+CUST0732,Male,26-35,Delhi,Electronics,Discount,Billboards,1524,3,2024-01-14
+CUST0733,Male,18-25,Maharashtra,Food,Standard,Social Media,1045,3,2024-01-14
+CUST0734,Female,46-55,Karnataka,Home Appliances,Standard,Television,4674,7,2024-01-14
+CUST0735,Female,46-55,Tamil Nadu,Books,Standard,Online Ads,2881,1,2024-01-14
+CUST0736,Male,36-45,Maharashtra,Books,Discount,Billboards,1388,9,2024-01-14
+CUST0737,Female,46-55,Tamil Nadu,Books,Premium,Online Ads,1605,6,2024-01-14
+CUST0738,Male,56+,Tamil Nadu,Clothing,Premium,Online Ads,3049,4,2024-01-15
+CUST0739,Male,56+,Uttar Pradesh,Food,Discount,Billboards,2490,3,2024-01-15
+CUST0740,Female,36-45,Maharashtra,Home Appliances,Discount,Billboards,4498,3,2024-01-15
+CUST0741,Male,56+,Maharashtra,Clothing,Premium,Television,4275,2,2024-01-15
+CUST0742,Female,26-35,Tamil Nadu,Electronics,Premium,Social Media,3312,2,2024-01-15
+CUST0743,Female,36-45,Karnataka,Home Appliances,Premium,Social Media,1420,5,2024-01-15
+CUST0744,Male,26-35,Uttar Pradesh,Home Appliances,Premium,Online Ads,2561,9,2024-01-15
+CUST0745,Male,18-25,Tamil Nadu,Home Appliances,Discount,Billboards,4987,2,2024-01-15
+CUST0746,Female,26-35,Delhi,Books,Discount,Television,4139,2,2024-01-15
+CUST0747,Male,18-25,Delhi,Home Appliances,Standard,Television,3665,6,2024-01-15
+CUST0748,Male,18-25,Uttar Pradesh,Food,Premium,Television,4935,2,2024-01-15
+CUST0749,Male,26-35,Karnataka,Home Appliances,Standard,Television,3144,4,2024-01-15
+CUST0750,Female,36-45,Tamil Nadu,Books,Discount,Television,1545,6,2024-01-15
+CUST0751,Female,56+,Maharashtra,Home Appliances,Discount,Social Media,4056,5,2024-01-15
+CUST0752,Male,56+,Uttar Pradesh,Electronics,Standard,Social Media,3181,1,2024-01-15
+CUST0753,Female,18-25,Karnataka,Electronics,Premium,Social Media,3699,6,2024-01-15
+CUST0754,Female,18-25,Maharashtra,Books,Premium,Billboards,1438,1,2024-01-15
+CUST0755,Female,36-45,Delhi,Food,Premium,Online Ads,941,3,2024-01-16
+CUST0756,Female,46-55,Delhi,Food,Premium,Television,3050,5,2024-01-16
+CUST0757,Female,26-35,Maharashtra,Clothing,Standard,Billboards,4725,5,2024-01-16
+CUST0758,Male,18-25,Uttar Pradesh,Books,Standard,Television,1096,6,2024-01-16
+CUST0759,Male,56+,Delhi,Home Appliances,Discount,Social Media,2005,8,2024-01-16
+CUST0760,Male,36-45,Tamil Nadu,Books,Premium,Billboards,1361,5,2024-01-16
+CUST0761,Female,26-35,Maharashtra,Clothing,Premium,Social Media,3140,1,2024-01-16
+CUST0762,Female,36-45,Maharashtra,Books,Premium,Television,4231,5,2024-01-16
+CUST0763,Male,26-35,Delhi,Books,Standard,Television,2051,3,2024-01-16
+CUST0764,Female,26-35,Uttar Pradesh,Clothing,Premium,Online Ads,3736,4,2024-01-16
+CUST0765,Male,18-25,Tamil Nadu,Food,Standard,Television,2236,8,2024-01-16
+CUST0766,Male,36-45,Uttar Pradesh,Home Appliances,Premium,Social Media,1949,7,2024-01-16
+CUST0767,Male,36-45,Karnataka,Clothing,Premium,Television,764,5,2024-01-16
+CUST0768,Female,56+,Karnataka,Electronics,Discount,Online Ads,3159,2,2024-01-16
+CUST0769,Female,56+,Delhi,Food,Premium,Online Ads,3221,6,2024-01-16
+CUST0770,Male,18-25,Delhi,Electronics,Premium,Social Media,1962,6,2024-01-16
+CUST0771,Male,18-25,Delhi,Food,Discount,Billboards,4752,6,2024-01-17
+CUST0772,Male,46-55,Karnataka,Home Appliances,Standard,Television,1945,9,2024-01-17
+CUST0773,Male,56+,Uttar Pradesh,Home Appliances,Standard,Online Ads,2798,8,2024-01-17
+CUST0774,Female,26-35,Uttar Pradesh,Books,Premium,Television,3425,8,2024-01-17
+CUST0775,Female,36-45,Delhi,Electronics,Standard,Television,2132,1,2024-01-17
+CUST0776,Male,18-25,Tamil Nadu,Food,Premium,Billboards,2874,5,2024-01-17
+CUST0777,Male,36-45,Uttar Pradesh,Home Appliances,Discount,Online Ads,1012,7,2024-01-17
+CUST0778,Female,36-45,Karnataka,Clothing,Discount,Television,715,6,2024-01-17
+CUST0779,Female,46-55,Maharashtra,Home Appliances,Premium,Online Ads,3831,5,2024-01-17
+CUST0780,Male,56+,Maharashtra,Clothing,Discount,Social Media,2672,8,2024-01-17
+CUST0781,Male,18-25,Maharashtra,Food,Discount,Social Media,3653,3,2024-01-17
+CUST0782,Male,36-45,Tamil Nadu,Home Appliances,Premium,Television,2206,6,2024-01-17
+CUST0783,Female,18-25,Delhi,Home Appliances,Premium,Online Ads,2606,5,2024-01-17
+CUST0784,Female,26-35,Karnataka,Food,Discount,Television,2067,8,2024-01-17
+CUST0785,Female,46-55,Tamil Nadu,Home Appliances,Standard,Online Ads,2708,4,2024-01-17
+CUST0786,Male,26-35,Karnataka,Clothing,Standard,Online Ads,2831,8,2024-01-17
+CUST0787,Male,18-25,Karnataka,Home Appliances,Premium,Billboards,2653,2,2024-01-17
+CUST0788,Female,18-25,Delhi,Electronics,Premium,Billboards,1628,9,2024-01-18
+CUST0789,Female,56+,Maharashtra,Books,Standard,Billboards,4010,9,2024-01-18
+CUST0790,Male,36-45,Delhi,Clothing,Discount,Television,4823,6,2024-01-18
+CUST0791,Female,36-45,Tamil Nadu,Electronics,Standard,Billboards,4153,4,2024-01-18
+CUST0792,Female,26-35,Tamil Nadu,Food,Standard,Billboards,2865,4,2024-01-18
+CUST0793,Male,46-55,Tamil Nadu,Clothing,Standard,Social Media,3421,6,2024-01-18
+CUST0794,Female,36-45,Delhi,Books,Standard,Online Ads,1579,5,2024-01-18
+CUST0795,Male,56+,Karnataka,Books,Premium,Online Ads,4011,6,2024-01-18
+CUST0796,Male,26-35,Karnataka,Food,Premium,Billboards,3241,7,2024-01-18
+CUST0797,Male,26-35,Uttar Pradesh,Food,Discount,Online Ads,3520,7,2024-01-18
+CUST0798,Male,56+,Tamil Nadu,Clothing,Discount,Social Media,728,9,2024-01-18
+CUST0799,Male,46-55,Karnataka,Home Appliances,Discount,Social Media,670,8,2024-01-18
+CUST0800,Male,56+,Uttar Pradesh,Food,Discount,Billboards,794,6,2024-01-18
+CUST0801,Male,46-55,Karnataka,Home Appliances,Standard,Social Media,4784,6,2024-01-18
+CUST0802,Female,56+,Tamil Nadu,Electronics,Premium,Online Ads,925,5,2024-01-18
+CUST0803,Male,56+,Maharashtra,Books,Premium,Television,1418,1,2024-01-18
+CUST0804,Male,18-25,Tamil Nadu,Home Appliances,Discount,Online Ads,3753,9,2024-01-19
+CUST0805,Female,26-35,Delhi,Books,Discount,Television,998,9,2024-01-19
+CUST0806,Female,56+,Karnataka,Home Appliances,Standard,Billboards,3309,9,2024-01-19
+CUST0807,Female,56+,Karnataka,Electronics,Standard,Television,1325,8,2024-01-19
+CUST0808,Male,36-45,Delhi,Food,Discount,Social Media,4279,3,2024-01-19
+CUST0809,Female,26-35,Delhi,Electronics,Premium,Online Ads,2358,1,2024-01-19
+CUST0810,Male,36-45,Maharashtra,Food,Premium,Television,2618,8,2024-01-19
+CUST0811,Male,26-35,Karnataka,Food,Premium,Online Ads,645,7,2024-01-19
+CUST0812,Male,36-45,Karnataka,Books,Discount,Billboards,4077,5,2024-01-19
+CUST0813,Male,56+,Maharashtra,Electronics,Premium,Billboards,692,7,2024-01-19
+CUST0814,Female,56+,Uttar Pradesh,Home Appliances,Standard,Social Media,4388,4,2024-01-19
+CUST0815,Female,18-25,Maharashtra,Electronics,Standard,Billboards,551,9,2024-01-19
+CUST0816,Male,36-45,Tamil Nadu,Books,Discount,Television,2910,2,2024-01-19
+CUST0817,Male,46-55,Karnataka,Food,Standard,Billboards,2320,9,2024-01-19
+CUST0818,Male,18-25,Delhi,Books,Discount,Social Media,3464,9,2024-01-19
+CUST0819,Female,36-45,Tamil Nadu,Clothing,Premium,Online Ads,3021,5,2024-01-19
+CUST0820,Male,36-45,Karnataka,Clothing,Premium,Online Ads,2369,1,2024-01-20
+CUST0821,Male,18-25,Maharashtra,Home Appliances,Premium,Billboards,3068,7,2024-01-20
+CUST0822,Female,56+,Tamil Nadu,Books,Standard,Television,2367,4,2024-01-20
+CUST0823,Female,36-45,Karnataka,Home Appliances,Discount,Social Media,3238,9,2024-01-20
+CUST0824,Male,56+,Uttar Pradesh,Home Appliances,Premium,Television,3769,6,2024-01-20
+CUST0825,Female,18-25,Uttar Pradesh,Clothing,Discount,Social Media,3699,3,2024-01-20
+CUST0826,Female,56+,Delhi,Home Appliances,Premium,Billboards,3079,6,2024-01-20
+CUST0827,Male,26-35,Karnataka,Clothing,Standard,Social Media,4505,6,2024-01-20
+CUST0828,Female,46-55,Uttar Pradesh,Food,Standard,Social Media,740,5,2024-01-20
+CUST0829,Male,36-45,Maharashtra,Books,Discount,Billboards,3940,2,2024-01-20
+CUST0830,Female,46-55,Karnataka,Home Appliances,Standard,Television,1907,2,2024-01-20
+CUST0831,Male,56+,Maharashtra,Clothing,Standard,Billboards,4002,7,2024-01-20
+CUST0832,Male,36-45,Maharashtra,Electronics,Discount,Social Media,4538,2,2024-01-20
+CUST0833,Male,56+,Uttar Pradesh,Home Appliances,Premium,Billboards,582,6,2024-01-20
+CUST0834,Female,26-35,Karnataka,Food,Standard,Social Media,4268,5,2024-01-20
+CUST0835,Male,18-25,Tamil Nadu,Food,Discount,Billboards,1450,4,2024-01-20
+CUST0836,Female,36-45,Uttar Pradesh,Electronics,Standard,Online Ads,1110,7,2024-01-20
+CUST0837,Male,26-35,Uttar Pradesh,Clothing,Standard,Online Ads,4105,8,2024-01-21
+CUST0838,Male,26-35,Karnataka,Home Appliances,Standard,Billboards,3783,4,2024-01-21
+CUST0839,Female,36-45,Karnataka,Clothing,Standard,Television,2673,1,2024-01-21
+CUST0840,Male,56+,Maharashtra,Food,Discount,Social Media,3984,1,2024-01-21
+CUST0841,Male,26-35,Karnataka,Clothing,Discount,Online Ads,2022,1,2024-01-21
+CUST0842,Female,46-55,Maharashtra,Food,Discount,Television,3101,1,2024-01-21
+CUST0843,Male,26-35,Uttar Pradesh,Clothing,Standard,Social Media,3157,5,2024-01-21
+CUST0844,Male,56+,Delhi,Electronics,Standard,Online Ads,2659,4,2024-01-21
+CUST0845,Male,56+,Tamil Nadu,Books,Standard,Online Ads,2949,9,2024-01-21
+CUST0846,Male,46-55,Uttar Pradesh,Electronics,Discount,Billboards,4330,3,2024-01-21
+CUST0847,Female,26-35,Karnataka,Electronics,Standard,Social Media,621,7,2024-01-21
+CUST0848,Female,56+,Tamil Nadu,Books,Premium,Television,4868,8,2024-01-21
+CUST0849,Male,36-45,Delhi,Books,Standard,Television,1817,6,2024-01-21
+CUST0850,Female,18-25,Delhi,Home Appliances,Premium,Television,4993,1,2024-01-21
+CUST0851,Male,18-25,Maharashtra,Home Appliances,Standard,Social Media,3018,8,2024-01-21
+CUST0852,Female,18-25,Tamil Nadu,Electronics,Discount,Television,1730,3,2024-01-21
+CUST0853,Male,26-35,Maharashtra,Electronics,Standard,Television,1633,8,2024-01-22
+CUST0854,Male,46-55,Uttar Pradesh,Food,Premium,Television,1801,4,2024-01-22
+CUST0855,Male,56+,Tamil Nadu,Food,Premium,Billboards,4534,8,2024-01-22
+CUST0856,Male,36-45,Uttar Pradesh,Home Appliances,Standard,Billboards,2410,1,2024-01-22
+CUST0857,Male,36-45,Maharashtra,Home Appliances,Premium,Social Media,2005,3,2024-01-22
+CUST0858,Male,26-35,Tamil Nadu,Food,Premium,Social Media,3685,6,2024-01-22
+CUST0859,Female,18-25,Maharashtra,Food,Discount,Television,2416,9,2024-01-22
+CUST0860,Male,26-35,Tamil Nadu,Clothing,Standard,Billboards,4048,2,2024-01-22
+CUST0861,Female,46-55,Maharashtra,Clothing,Standard,Online Ads,3257,1,2024-01-22
+CUST0862,Male,46-55,Delhi,Food,Standard,Online Ads,2456,3,2024-01-22
+CUST0863,Female,56+,Maharashtra,Clothing,Premium,Television,678,4,2024-01-22
+CUST0864,Female,56+,Delhi,Books,Standard,Television,1396,5,2024-01-22
+CUST0865,Female,46-55,Maharashtra,Home Appliances,Standard,Billboards,2051,3,2024-01-22
+CUST0866,Male,46-55,Tamil Nadu,Home Appliances,Discount,Billboards,991,2,2024-01-22
+CUST0867,Male,46-55,Tamil Nadu,Food,Discount,Billboards,560,2,2024-01-22
+CUST0868,Female,26-35,Tamil Nadu,Electronics,Discount,Social Media,1577,7,2024-01-22
+CUST0869,Male,46-55,Karnataka,Food,Premium,Social Media,3395,9,2024-01-23
+CUST0870,Female,36-45,Uttar Pradesh,Clothing,Standard,Television,4660,2,2024-01-23
+CUST0871,Male,18-25,Tamil Nadu,Electronics,Discount,Social Media,4183,7,2024-01-23
+CUST0872,Female,46-55,Delhi,Clothing,Discount,Billboards,1085,7,2024-01-23
+CUST0873,Female,18-25,Tamil Nadu,Books,Discount,Billboards,4460,7,2024-01-23
+CUST0874,Male,26-35,Karnataka,Clothing,Standard,Social Media,4270,3,2024-01-23
+CUST0875,Female,18-25,Delhi,Books,Standard,Online Ads,1034,7,2024-01-23
+CUST0876,Male,26-35,Karnataka,Books,Standard,Television,3962,1,2024-01-23
+CUST0877,Female,36-45,Delhi,Clothing,Premium,Online Ads,4511,1,2024-01-23
+CUST0878,Female,26-35,Maharashtra,Clothing,Premium,Television,3898,5,2024-01-23
+CUST0879,Male,26-35,Uttar Pradesh,Books,Discount,Online Ads,2655,2,2024-01-23
+CUST0880,Male,56+,Uttar Pradesh,Electronics,Standard,Social Media,1504,9,2024-01-23
+CUST0881,Male,46-55,Karnataka,Books,Discount,Television,2999,7,2024-01-23
+CUST0882,Female,46-55,Uttar Pradesh,Home Appliances,Standard,Television,826,4,2024-01-23
+CUST0883,Male,36-45,Karnataka,Books,Standard,Television,3206,4,2024-01-23
+CUST0884,Female,36-45,Karnataka,Electronics,Standard,Billboards,501,2,2024-01-23
+CUST0885,Female,46-55,Karnataka,Home Appliances,Premium,Billboards,1533,5,2024-01-23
+CUST0886,Male,56+,Uttar Pradesh,Food,Premium,Online Ads,2981,4,2024-01-24
+CUST0887,Male,46-55,Karnataka,Food,Standard,Social Media,624,1,2024-01-24
+CUST0888,Female,56+,Uttar Pradesh,Electronics,Discount,Billboards,1604,8,2024-01-24
+CUST0889,Female,36-45,Karnataka,Books,Standard,Television,3199,3,2024-01-24
+CUST0890,Male,18-25,Tamil Nadu,Clothing,Standard,Billboards,2361,6,2024-01-24
+CUST0891,Male,36-45,Karnataka,Electronics,Discount,Social Media,3420,4,2024-01-24
+CUST0892,Male,36-45,Delhi,Home Appliances,Standard,Billboards,628,9,2024-01-24
+CUST0893,Male,26-35,Karnataka,Home Appliances,Discount,Television,937,7,2024-01-24
+CUST0894,Male,26-35,Maharashtra,Food,Premium,Online Ads,3048,9,2024-01-24
+CUST0895,Female,26-35,Karnataka,Home Appliances,Premium,Television,3629,3,2024-01-24
+CUST0896,Female,26-35,Delhi,Electronics,Discount,Social Media,1721,1,2024-01-24
+CUST0897,Female,56+,Delhi,Home Appliances,Premium,Online Ads,1401,5,2024-01-24
+CUST0898,Female,46-55,Uttar Pradesh,Electronics,Premium,Billboards,3668,3,2024-01-24
+CUST0899,Male,18-25,Tamil Nadu,Clothing,Discount,Billboards,4986,6,2024-01-24
+CUST0900,Male,36-45,Karnataka,Food,Premium,Billboards,4418,8,2024-01-24
+CUST0901,Male,56+,Uttar Pradesh,Home Appliances,Standard,Online Ads,1567,4,2024-01-24
+CUST0902,Female,18-25,Tamil Nadu,Electronics,Standard,Television,526,5,2024-01-25
+CUST0903,Female,56+,Karnataka,Books,Discount,Online Ads,1047,5,2024-01-25
+CUST0904,Male,56+,Maharashtra,Food,Premium,Online Ads,3168,4,2024-01-25
+CUST0905,Male,36-45,Karnataka,Clothing,Standard,Social Media,1066,4,2024-01-25
+CUST0906,Female,46-55,Delhi,Electronics,Standard,Online Ads,1203,4,2024-01-25
+CUST0907,Female,26-35,Delhi,Clothing,Premium,Billboards,4780,4,2024-01-25
+CUST0908,Male,46-55,Maharashtra,Clothing,Premium,Television,3640,4,2024-01-25
+CUST0909,Male,36-45,Uttar Pradesh,Home Appliances,Standard,Television,2090,5,2024-01-25
+CUST0910,Female,36-45,Tamil Nadu,Home Appliances,Standard,Television,1305,2,2024-01-25
+CUST0911,Male,36-45,Karnataka,Electronics,Discount,Billboards,4291,2,2024-01-25
+CUST0912,Male,18-25,Delhi,Books,Discount,Billboards,1857,9,2024-01-25
+CUST0913,Male,46-55,Uttar Pradesh,Electronics,Standard,Billboards,3725,2,2024-01-25
+CUST0914,Female,46-55,Maharashtra,Books,Discount,Billboards,4118,6,2024-01-25
+CUST0915,Female,56+,Delhi,Clothing,Standard,Billboards,2626,2,2024-01-25
+CUST0916,Female,56+,Maharashtra,Food,Standard,Online Ads,2960,5,2024-01-25
+CUST0917,Female,56+,Karnataka,Electronics,Discount,Billboards,1045,4,2024-01-25
+CUST0918,Female,36-45,Tamil Nadu,Electronics,Discount,Billboards,3228,7,2024-01-25
+CUST0919,Female,46-55,Delhi,Books,Premium,Billboards,4234,7,2024-01-26
+CUST0920,Female,36-45,Delhi,Clothing,Premium,Billboards,3062,6,2024-01-26
+CUST0921,Male,18-25,Karnataka,Clothing,Premium,Television,2579,5,2024-01-26
+CUST0922,Male,56+,Uttar Pradesh,Books,Standard,Billboards,3141,1,2024-01-26
+CUST0923,Male,36-45,Tamil Nadu,Clothing,Discount,Online Ads,3614,3,2024-01-26
+CUST0924,Male,36-45,Delhi,Home Appliances,Standard,Online Ads,2426,9,2024-01-26
+CUST0925,Male,18-25,Tamil Nadu,Food,Discount,Online Ads,1116,1,2024-01-26
+CUST0926,Male,26-35,Delhi,Electronics,Standard,Social Media,4144,5,2024-01-26
+CUST0927,Male,46-55,Tamil Nadu,Food,Premium,Television,1703,2,2024-01-26
+CUST0928,Female,26-35,Maharashtra,Electronics,Premium,Billboards,2259,4,2024-01-26
+CUST0929,Female,56+,Delhi,Home Appliances,Premium,Social Media,3065,1,2024-01-26
+CUST0930,Male,36-45,Tamil Nadu,Clothing,Standard,Billboards,3674,3,2024-01-26
+CUST0931,Male,18-25,Uttar Pradesh,Books,Discount,Social Media,3581,7,2024-01-26
+CUST0932,Female,18-25,Maharashtra,Home Appliances,Discount,Social Media,3130,3,2024-01-26
+CUST0933,Male,46-55,Maharashtra,Food,Premium,Online Ads,3661,4,2024-01-26
+CUST0934,Male,26-35,Uttar Pradesh,Books,Premium,Online Ads,4821,2,2024-01-26
+CUST0935,Female,46-55,Tamil Nadu,Clothing,Premium,Social Media,1169,3,2024-01-27
+CUST0936,Male,36-45,Karnataka,Home Appliances,Premium,Online Ads,3668,9,2024-01-27
+CUST0937,Female,46-55,Uttar Pradesh,Books,Discount,Social Media,2621,3,2024-01-27
+CUST0938,Male,18-25,Tamil Nadu,Home Appliances,Standard,Television,4578,5,2024-01-27
+CUST0939,Female,18-25,Uttar Pradesh,Home Appliances,Standard,Online Ads,4651,2,2024-01-27
+CUST0940,Female,56+,Uttar Pradesh,Clothing,Standard,Online Ads,1219,4,2024-01-27
+CUST0941,Female,56+,Delhi,Electronics,Standard,Online Ads,3100,7,2024-01-27
+CUST0942,Male,36-45,Tamil Nadu,Books,Premium,Television,4098,7,2024-01-27
+CUST0943,Female,26-35,Karnataka,Clothing,Premium,Social Media,1166,3,2024-01-27
+CUST0944,Male,46-55,Delhi,Home Appliances,Premium,Billboards,783,5,2024-01-27
+CUST0945,Male,36-45,Uttar Pradesh,Clothing,Standard,Online Ads,4403,1,2024-01-27
+CUST0946,Male,56+,Uttar Pradesh,Electronics,Premium,Social Media,4065,1,2024-01-27
+CUST0947,Male,46-55,Uttar Pradesh,Books,Premium,Television,2734,5,2024-01-27
+CUST0948,Female,56+,Tamil Nadu,Electronics,Discount,Billboards,1965,9,2024-01-27
+CUST0949,Female,46-55,Tamil Nadu,Food,Discount,Online Ads,629,1,2024-01-27
+CUST0950,Male,26-35,Delhi,Books,Premium,Television,2560,1,2024-01-27
+CUST0951,Male,36-45,Karnataka,Electronics,Discount,Television,4172,4,2024-01-28
+CUST0952,Female,46-55,Delhi,Home Appliances,Discount,Billboards,2994,4,2024-01-28
+CUST0953,Male,18-25,Maharashtra,Books,Premium,Social Media,1492,2,2024-01-28
+CUST0954,Female,18-25,Uttar Pradesh,Books,Premium,Online Ads,2621,9,2024-01-28
+CUST0955,Male,46-55,Uttar Pradesh,Clothing,Premium,Online Ads,3084,9,2024-01-28
+CUST0956,Male,46-55,Uttar Pradesh,Home Appliances,Premium,Social Media,4696,2,2024-01-28
+CUST0957,Female,46-55,Delhi,Food,Standard,Social Media,2723,9,2024-01-28
+CUST0958,Male,18-25,Delhi,Electronics,Standard,Social Media,3688,6,2024-01-28
+CUST0959,Female,18-25,Uttar Pradesh,Clothing,Premium,Billboards,3737,8,2024-01-28
+CUST0960,Male,46-55,Delhi,Electronics,Discount,Billboards,4636,4,2024-01-28
+CUST0961,Male,56+,Tamil Nadu,Food,Premium,Online Ads,843,2,2024-01-28
+CUST0962,Male,56+,Tamil Nadu,Food,Premium,Billboards,4961,2,2024-01-28
+CUST0963,Female,26-35,Delhi,Books,Discount,Television,2776,9,2024-01-28
+CUST0964,Male,36-45,Uttar Pradesh,Food,Standard,Online Ads,3701,1,2024-01-28
+CUST0965,Male,56+,Delhi,Electronics,Premium,Billboards,1388,7,2024-01-28
+CUST0966,Male,18-25,Delhi,Home Appliances,Premium,Social Media,2543,3,2024-01-28
+CUST0967,Male,56+,Delhi,Home Appliances,Standard,Television,1841,3,2024-01-28
+CUST0968,Female,26-35,Maharashtra,Books,Standard,Social Media,4220,2,2024-01-29
+CUST0969,Female,26-35,Tamil Nadu,Electronics,Discount,Online Ads,3383,6,2024-01-29
+CUST0970,Male,36-45,Karnataka,Electronics,Standard,Social Media,4712,2,2024-01-29
+CUST0971,Female,56+,Karnataka,Food,Standard,Billboards,2915,4,2024-01-29
+CUST0972,Male,18-25,Maharashtra,Electronics,Standard,Billboards,1617,9,2024-01-29
+CUST0973,Male,18-25,Delhi,Clothing,Discount,Online Ads,4763,9,2024-01-29
+CUST0974,Male,46-55,Maharashtra,Food,Standard,Social Media,3501,6,2024-01-29
+CUST0975,Female,18-25,Maharashtra,Clothing,Standard,Online Ads,2238,4,2024-01-29
+CUST0976,Female,36-45,Uttar Pradesh,Books,Discount,Social Media,1864,7,2024-01-29
+CUST0977,Female,36-45,Tamil Nadu,Home Appliances,Standard,Television,3208,1,2024-01-29
+CUST0978,Female,18-25,Karnataka,Books,Standard,Billboards,1424,4,2024-01-29
+CUST0979,Female,18-25,Delhi,Home Appliances,Discount,Online Ads,651,5,2024-01-29
+CUST0980,Female,46-55,Karnataka,Books,Premium,Television,1085,8,2024-01-29
+CUST0981,Female,18-25,Karnataka,Electronics,Discount,Television,1412,2,2024-01-29
+CUST0982,Female,46-55,Tamil Nadu,Clothing,Standard,Online Ads,2821,5,2024-01-29
+CUST0983,Female,46-55,Karnataka,Home Appliances,Standard,Online Ads,995,6,2024-01-29
+CUST0984,Male,18-25,Karnataka,Food,Standard,Television,4295,5,2024-01-30
+CUST0985,Female,26-35,Maharashtra,Clothing,Discount,Social Media,2648,9,2024-01-30
+CUST0986,Female,26-35,Tamil Nadu,Food,Standard,Television,1056,1,2024-01-30
+CUST0987,Female,46-55,Uttar Pradesh,Clothing,Standard,Online Ads,2052,3,2024-01-30
+CUST0988,Female,18-25,Delhi,Clothing,Discount,Television,2620,2,2024-01-30
+CUST0989,Female,26-35,Karnataka,Books,Premium,Social Media,3585,3,2024-01-30
+CUST0990,Female,18-25,Delhi,Home Appliances,Premium,Billboards,4004,9,2024-01-30
+CUST0991,Female,18-25,Uttar Pradesh,Home Appliances,Standard,Billboards,656,9,2024-01-30
+CUST0992,Female,18-25,Delhi,Clothing,Discount,Television,1234,2,2024-01-30
+CUST0993,Female,56+,Uttar Pradesh,Electronics,Standard,Social Media,3776,3,2024-01-30
+CUST0994,Female,18-25,Maharashtra,Electronics,Discount,Billboards,654,4,2024-01-30
+CUST0995,Female,56+,Karnataka,Food,Discount,Television,1496,9,2024-01-30
+CUST0996,Male,46-55,Uttar Pradesh,Food,Premium,Television,2794,3,2024-01-30
+CUST0997,Male,26-35,Delhi,Books,Premium,Social Media,3405,7,2024-01-30
+CUST0998,Female,26-35,Karnataka,Clothing,Discount,Online Ads,1677,3,2024-01-30
+CUST0999,Female,26-35,Maharashtra,Food,Standard,Television,653,7,2024-01-30
+CUST1000,Male,26-35,Karnataka,Food,Premium,Online Ads,4687,7,2024-01-31
